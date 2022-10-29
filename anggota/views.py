@@ -20,7 +20,7 @@ def get_nia(nama):
     try:
         result = nama_split[1]
 
-    except ValueError:
+    except IndexError:
         result = None
 
     return result
