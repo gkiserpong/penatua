@@ -1,6 +1,6 @@
 from django.contrib import admin
 from django.urls import path, include
-from anggota.views import import_view
+from anggota.views import input_view
 
 
 urlpatterns = [
