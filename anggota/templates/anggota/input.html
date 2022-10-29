@@ -16,15 +16,12 @@
     <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
     <script> 
         function validateAnggota(elem) {
-            console.log(elem.val());
             let text_split = elem.val().split(" - ");
             if (text_split.length > 2) {
                 let nia = text_split[1];
-                console.log(nia);
                 $.ajax('{% url 'get-anggota-detail' %}?term=' + nia,
                     {
                         success: function(data, status, jqHXR) {
-                            console.log(data);
                             if (data['status'] == false) {
                                 alert('Nama usulan salah. Harap memilih dari daftar yang ada.');
                                 elem.val('');
@@ -61,9 +58,7 @@
         $.ajax('{% url 'get-wilayah' %}',
         {
             success: function(data, status, jqXHR) {
-                // console.log(data);
                 $.each(data, function(i, item) {
-                    //console.log(item.id);
                     $('.form-select').append($('<option>', {
                         value: item.id,
                         text: item.nama
@@ -107,13 +102,10 @@
         });
 
         $("#konfirmasi").click(function() {
-            if($("#konfirmasi").is(':checked')) {
+            if($("#konfirmasi").is(':checked'))
                 $("#submit_button").css('visibility', 'visible');  // checked
-                // console.log("CHECKED")
-            } else {
+            else
                 $("#submit_button").css('visibility', 'hidden');  // unchecked
-                // console.log("UNCHECKED")
-            }
 
         });
 
@@ -164,7 +156,6 @@ function validateEmail(elem) {
                 $('#penatua_5_alasan').val(data['penatua_5_alasan'])
                 
             }
-            //console.log(data);
         }
     });
     }
