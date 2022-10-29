@@ -1,65 +1,144 @@
-A2011057,Christian Anugrah Leonardo Gultom
-A2011058,Jonathan Alas Sakti Gultom
-A2011059,Esau Gultom
-A2013099,Jeremy Victor Andre Napitupulu
-A2012035,Bella Marvelyn Elisabeth Tambunan
-A2014039,Nathania Sophia Anabella Tambunan
-A2013015,Nova Putri Yasminia
-A2014018,Azarya Benaiah Sembiring
-A2014044,Siegfried Nathanael Sembiring
-A2013067,Catherine Halimsandjaja
-A2013075,Deocaro Siahaan
-A2008046,Justis Bernadewa
-A1998020,Jovian Geraldion Abednego
-A2003001,Shane Immanuela Litani
-A2011030,Robert Tonggo Hasiholan Girsang
-A2009044,Jocelyn Iona Putri Aribawana
-A2009056,Joel Savion Putra Aribawana
-A2009051,Karah Mardhatasya Rahein br. Ginting
-A2009060,Kegan Ethannael Ginting
-A2001023,Clarissa Briantana Hariantoro
-A2003011,Claudio Marvel Hariantoro
-A2014007,Ruth Audrey Debora Sianturi
-A2014083,Emily Shelomita Hasiholan Gultom
-A2016048,Michael Shalom Pardomuan Gultom
-A2015002,Marcho Christopher Salakory
-A2015003,Marsya Valensya L. Salakory
-A2015004,Esterlind Zefanya Salakory
-A2015008,Vallerina Nathania Sitorus
-A2015009,Vallerita Natasha Sitorus
-A2017067,Vallencia Nathalyn Sitorus
-A2015022,Anindya Adara Namitha
-A2015029,Axel Adhyastha Prabowo
-A2015023,Julian Jatimas Dameasih
-A2015026,Elazar Rex Nangkok Tambunan
-A2015079,Nasya Karina
-A2016060,Josiah Emmanuel Linting
-A2016061,Jeremiah Filippo Linting
-A2017088,Vanya Radinka
-A2017089,Qanita Annaya
-A2017092,Anya Mahrani Kumarawati Lumban Gaol
-A2017093,Sebastian Amartya Kai Lumban Gaol
-A2008013,Kevin Winatra
-A2008014,Kenny Winatra
-A2008015,Kenneth Winatra
-A2012051,Nadya Ayukanita Wijaya
-A2012032,Wilbert Naek Mangaraja Panjaitan
-A2014077,Gerald Yesaya Panjaitan
-A2009064,Aileen Keisha Simanjuntak
-A2017084,Arthur Wellington Simanjuntak
-A2001054,Kezia Ardine Jacobus
-A2010041,Jemila Chiara Dameria Situmorang
-A2010055,Anastasia Patricia Mendrofa
-A2014003,Katja Bella Nabasa Nugroho
-A2014004,Karaniya Kinnari Nugroho
-A2017053,Serenada Allegra Sairadoti Simarmata
-A2017073,Ariella Lasmaria Eunice Saragih
-A2017074,Jonathan Mathias Nathanael Saragih
-A2012028,Valentino Joshi Simatupang
-A2008059,Johana Nathanael
-A2008060,Stefany Rina
-A2011067,Amabelle Jessey Christina
-A2003043,Gloria Distance Renata
-A2002026,Serafim Chintya Rembulan Siahaan
-A2017066,Kefas Benedict Setiawan
-A2002048,Devina Callista
+2652,Dikki Jabes Gultom
+2653,Yanti Paulina Mandalika
+3025,Bernard Efendy Napitupulu
+3026,Renata M.S.L. Manullang
+3308,Jessica Grace Pratiwi Napitupulu
+2788,Marully Hendrik Tambunan
+2789,Emma Sophia Maria Nappoe
+1837,Tjahjono Rahardjo Cadysan
+1838,Januar Titinauli
+2157,Suryo Bawono
+2479,Kristanto Baskoro
+2938,Primi Edi Mardiati
+3695,Adristi Alfa Talita
+3080,Bonar Caesar Dovin Idola Hutasoit
+2818,Andrew Tosima
+2819,Windy Wengilo Widyaningsih Kabi
+3171,Josia Sembiring
+3172,Reh Ulina Pinem
+1997,Marina Agustina
+3095,Joshua Resamuel Pardosi
+2001,Andrea Martahan Hasahatan Siahaan
+2002,Verely Yolanda Siahaan
+2130,Yulianto Dewata
+2131,Bernanis Puspita Sari
+2088,Abigail Sri Safarina
+2480,Jedediah S. Abram
+3126,Jason Christian Abram
+0538,Djoko Triatmoko Petrus
+0530,Dewi Utami
+2625,Rohtuah Hadamean Girsang
+2626,Pormaida Pasaribu
+3743,Roreta Bunga Pininta Girsang
+2993,Rolly Umbu Dongu
+2994,Diana Novia Debby Manongga
+2331,Bayu Aribawana
+2332,Ruth Niken Setyaningtyas
+2904,Susan Marta
+2345,Sinar Ginting
+2346,Martha Rosdiana Aritonang
+2728,Rivai Sinambela
+2729,Martha Domeng
+2858,Gerry Aryo Prasaya Sinambela
+1118,Enrico Hariantoro
+1119,Kartini Pricilia
+3041,Hotma John L. Sianturi
+3042,Elizabeth Rebecca Hutauruk
+3248,Raya Meriaty Sipahutar
+3367,Dinarta Elsa Br. Tambunan
+3368,Nathalia Br. Hutauruk
+3254,Tumpal Salomo Gultom
+3255,Ester Yolanda
+3270,Parlind Salakory
+3271,Helena Louisa Alfons 
+3370,Effendy B. Sitorus
+3371,Theresia Suzana Siahaan
+3379,Chondro Heru Prabowo
+3380,Josefin Jonata Marian
+3382,Paskatu Hardinata
+3383,Tiurma Sitorus
+3384,Dewi Mega Victoria
+0754,Marlon Nangkok H. Tambunan
+3424,Ngahesti Gadroen
+3626,Christian Linting
+3627,Marlin S. Linting
+3828,Butet Manatap Yuliana
+3840,Sanggam P.P. Lumban Gaol
+3841,Metiyana Utama
+3979,Subari Hadisuprapto
+3980,Grisilde Papilaja
+4026,Carlos Jonathan
+4027,Iasci Simanjuntak
+2089,Ali Yap
+2090,Ansye Veronika Palar 
+2828,Kundrad Wijaya
+2829,Kristanti Widiarini
+2738,Handy Oktavianus
+2739,Ariestya Sianli
+2740,Agnes Osella
+2741,David Avila
+2809,Benny Hamonangan Panjaitan
+2810,Maria Fransisca Meirita
+2357,Allberth Buddyman Simanjuntak
+2358,Wulandari Purnama Sinambela
+0688,Hendra Yusak Jakobus
+0874,Edith Arelya Jacobus
+0875,Dian Margareth Eka T.J.
+4161,Hosiana Daniel Adrian Gultom
+4162,Ika Irianti
+2501,Erwin Tunggul Setiawan Situmorang
+2502,Basana Pinkan Permata A. Moeis br. Siahaan 
+0293,Widjajanto Rahardjo
+0298,Kristiani Listyo
+1560,Amanda Puspitasari
+2051,Imanuel Ryan Wijaya
+0373,Sony Kristiono Haryanto 
+2417,Hanny Rustanto
+2752,Stella Ekaputri Haryanto
+2523,Fatema Irianus Mendrofa
+2524,Justina Patricia Harahap
+3731,Edward Josua Mendrofa
+3124,Abscido Purnomo
+3616,Samuel Mulyo Purnomo
+3617,Inawati BT Yamin
+2933,Daniel Christovery Darmaputra
+0086,Chandra
+2052,Adrianus Febrian
+2242,Pricealla Maureen
+3313,Lidwina Celine
+3692,Quintina Maura
+3034,Imma Golda Mestika Sihombing
+3789,Avrinson Budi Hotman Simarmata
+3790,Vanessy Theodora Silalahi
+3819,Sudiono Saragih
+3820,Nelly Elizabeth Gokma Pardede
+4167,Bernard Mangatas Siagian
+4168,Jenni Maria Panggabean
+3981,Raoul Richard Adi
+3982,Paulina Runny Avianti Dikky
+3983,Crisanthya Pauline Adi
+2656,Yulius Partogi Hutagalung
+2657,Louisa Sofia Simatupang
+1654,Yehezkiel Hasudungan
+2237,Michael Anggiat
+2794,Oloan Martumpu Simatupang
+2795,Ruth Rotua One Indirasari
+2796,Vania H. Sekar Pradipthya Simatupang
+3676,Atria Kusuma Wardhani
+2075,Joni Naryo
+2076,Lina Wijaya
+3047,Over Prasetyo Thomas Djara
+0757,Kristiono
+0886,Trisno Lilik
+0887,Chatterina Utami
+3703,Gabriella Dinda Ayu Utami
+0882,Ronny Rudolf Siahaan
+0883,Frida Rismauli Pasaribu
+2850,Gabriella Mitra Rouli
+3492,Michael Gary Ringgas Siahaan
+2968,Wawan Setiawan
+2969,Astrine Evelina 
+2970,Evan Setiawan
+2971,Astrid Putri Setiawan
+2851,Trianake Setiawan
+1125,Rony Anthonius

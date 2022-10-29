@@ -1,24 +1,68 @@
-A2001034,Jeremia Aledakruistan Japp
-A2001033,Elzabeth Azalia Limarga
-A2002022,Caleb Nathaniel Limarga
-A2005043,David Verrell Wibowo
-A2003030,Jansen Kurniawan Loas
-A2007086,Christopher Nathanael Amir
-A2010068,Milagrosa Kasih Gusti
-A1997008,Gisela Abigael Bucihaly Wizh Tampubolon
-A2001059,Cecilia M. Bucihaly Tampubolon
-A2010060,Dylan Immanuel Wahyudi
-A2014080,Mouritz Mikha Wahyudi
-A2015027,Trevor Josh Wahyudi
-A2008009,Raymond Adara Martua Hiraki
-A2008010,Hanako Thalia J. Hiraki
-A1997009,Steven Hadianto Sulaiman
-A1997010,Jonathan Sulaiman
-A2013012,Arlene Gracia br. Lumbantoruan
-A2005049,Darrel Sebastian Silalahi
-A2010019,Nahum Tessar Liemantan
-A2010020,Nada Kiana Liemantan
-A2008061,Maria Amy Patricia br. Napitupulu
-A2010031,Michelle Debora Napitupulu
-A2016089,Felicia Gabriel Natania Siwy
-A2001058,Jessica Christina Wattimena
+0300,Slamet Iskandar
+0308,Tanty Eka Suryani
+0525,Samuel Djinargo L. Rahardjo
+0526,Meigawati
+3327,Abigail Nathania Limarga
+0848,Sumaryono
+0849,Marini Tri Rostanti
+2694,Martinus Eko Raharjo
+2695,Mariska Dwi Indah Mutiarani
+0359,Winoto Sariadji
+0369,Hanna Martha Suryani S.
+1556,Alim Wibowo
+1460,Trias Mulyaningsih
+2217,Irene Setyono
+1605,Lydia Resik Sjioen
+1606,Melisa Yohana Sjioen
+1691,Ferdinand Nikolai Sjioen
+0783,Edmond Rumapar
+0784,Nicolina Rumapar
+1558,Mersia Paula Rumapar
+2387,Marko Paul Rumapar
+0617,Joni Lo
+3336,Jeremia Perdana Loas
+2976,Yusman Harefa
+2067,Christian Amiruddin
+2068,Roselina Clementine 
+2474,Priska Sicilia Amir
+1695,Cynthya Belinda
+2512,Sukadarminto
+2513,Rose Emmaria Tarigan
+0397,Harapan P. Win Tampubolon 
+1426,Yandri Perdana Wahyudi
+2246,Triana Putri Wahyudi
+2081,Herman Anthony Hiraki
+2082,Monica Yosalina Siahaan
+1570,Petra Carolina Y. Hiraki
+2049,Bianca Natalia A. Hiraki
+0769,Sulaiman
+0770,Suwarni
+0486,Andar Togap P. Lumbantoruan
+0474,Evangeline Hutabarat
+1072,Mikhael Sinaga
+1568,Carmen Citra T. N. Siregar
+2030,William Nicolaas S. P. Siregar
+1585,Suandi Harryanto Silalahi
+1586,Risma D. Purba
+0296,Binsar Sitorus
+0299,Yulianti Simanjuntak
+1429,Binstein M.H.P. Sitorus Pane
+1653,Binstien Arpina Dwi Y. N. B. S. P
+2446,David Andi Winarso
+2447,Tanina
+2177,Humala S. Napitupulu
+2178,Netty Herlina br. Aritonang
+3332,Christopher Joshua
+0472,Iman Hutabarat
+3423,Jayanti Wenas
+0598,Pieter A. Wattimena
+0599,M. Conny Wattimena S.
+3256,Joshua Adolf Reinhart Wattimena
+3335,Jason Jacob Wattimena
+3833,Samuel N. Setyono
+3834,Triana Himawati Brasali
+3647,Manda Laika Dandel
+0694,Jimmy Djaja
+0695,Trifosa Agustulastari
+3777,Firman Sudiarto
+3778,Puji Astuti

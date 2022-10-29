@@ -1,53 +1,189 @@
-A2006081,Friska Nauli Ritonga
-A2009061,Timoty Tio Ritonga
-A2013023,Ondihon Ritonga
-A2016041,Sylvia
-A2016042,Vina
-A2012056,Thyara Ayuningtyas H. Siahaan
-A2014045,Alvaro Filemon Rafael Siahaan
-A2017012,Exan Putra Adityatama
-A2008104,Gratia Theresa Magdalena Siahaan
-A2012057,Alexa Felicia Siahaan
-A2019029,Filiana Volonto Deo Siahaan
-A2000018,Paulina Tania Nainggolan
-A2010007,Yesica Nadiah Sanger
-A2003010,Igor Kansha Natanael Simorangkir
-A2010027,Reggina November
-A2004055,Agustinus Siahaan
-A2004056,Julio Alvito Siahaan
-A2003044,Ribka Anggainy Hardewind Tiki
-A2003007,Firman Prasetyo Hardewind Tiki
-A2003008,Juwita Ayu Pricilia Ningrum H.Tiki
-A2015066,Nicholas Bastian Hardewind Tiki
-A2009021,Azarya Pentakosta Wisanggeni
-A2010064,Beltsazar Abhyakta Wistara
-A2014022,Euodia Alenta Syalom
-A2010059,Edgard Sebastian Arwadi
-A2007082,Elisa Hilda Cyntia P. Damanik
-A2003024,Maria Angel M. Pardede
-A2008073,Latacia Giovanni Pangloli
-A2010032,Christian Geovano Pangloli
-A2004030,Beatric Aprilia Mangentang
-A2010069,Bernicia Elizabeth Mangentang
-A2012060,Bernedicta Isabelle Mangentang
-A2005026,Bambang Priyambodo
-A2014024,Kevia Shenny Angelica Nyangkal
-A2015078,Kineta Gracia Nyangkal
-A1999019,Jonathan Kurnianto
-A2003026,Joas Kurnianto
-A2002034,Jason Wat Halomoan Djabumona
-A2013005,Marintan Meylani Silaen
-A2002012,Stella Theresia Manullang
-A2012041,Gracecilia Sarangnga Rubak Malino
-A2013071,Griselda Maria Sarangnga Malino
-A2016011,Felicya Angelita Pasaribu
-A2017064,Ezra Narayana Manulang
-A2006048,Otniel Parsaoran Manullang
-A2007078,Ruth Febriani Manullang
-A2014090,Stefani Ribka
-A2014094,Billy Septian
-A2014095,Eunike Mayumi
-A1995007,Ika Fransiska
-A2016027,Abraham Xavier Sonderva Siahaan
-A2003045,Willy Galuh Pakuan
-A2016010,Shelomitha Nurrisard Manurung
+2392,Desy Wulandari Putri
+2876,Dimas Driyo Waskito
+1829,Maju Ritonga
+1830,Mei Rita Silaen
+1058,Nurliya Angelina Simanullang
+3120,Sonny Lusius Simbolon
+3040,Tuty Julia Pattinama
+3591,Suyatna Budyantoro
+3592,Oey Novita
+3605,Suntoro
+3606,Titi Miranti Hadiningtyas
+0920,Arnol Royland Siahaan
+1185,Teofidia Alistaputri
+3659,Maryadi
+3660,Dewi Tri Prasetyowati
+3696,Anastasya Salsabila A.
+0921,Leons Rixson Siahaan
+1614,Rouli Yemi S. Hutapea
+0830,Tangkas Nainggolan
+0831,Dernias br. Pakpahan
+3709,Naomi Tiovanny Nainggolan
+1882,Anita Astuti T.
+2421,Eddy Sanger
+2422,Aneke Makafele
+2435,Guttur J.P. Simanjuntak
+2436,Mery Juli Asna br. Pakpahan
+2486,Christian Jaya Pangidoan Simanjuntak
+2877,Natasya Meizontri Simanjuntak
+0561,Tumbur Simorangkir
+0585,Atun Butar Butar
+3334,Ishak Robin Simorangkir
+3667,Lindung Nainggolan
+3668,Oktoberliana Harianja
+2448,Kristyaningsih
+1461,Julfitri Siahaan 
+1462,Erlinda Sitanggang
+2200,Ani Haryanti
+2489,Paulina Dewianggun Sari
+1536,Edi Yuswo Widodo
+1537,Sri Hariyati Tyas Utami
+4321,Theresa Christina Yoel
+1293,Iwan Yusander Hardewind
+1294,Suntia
+2275,Catur Widyatmoko
+2295,Ida Yunani
+2108,Joyce Sarah Arwadi
+2696,Edward Rheza Firmansyah
+0364,Tiurmaida S.
+2485,Bikhamanda Ronggur Panjaitan
+2873,Azaria Basauli Panjaitan 
+3697,Anneira Kristiani Panjaitan
+1497,Yohanes Barana Sitandung
+1498,Widayanti Nalimbu Patandianan
+1874,Indra Mario
+2389,Indri Ariesta
+0418,Puguh Koestoro
+0419,Hermin T. Aswarni
+1875,Herdantoro Oktodiastha
+1876,Rikoo Anggraita Megaharu
+2023,M. Tigor H. Damanik
+2024,Sulistyowati Tiur Simangunsong
+3318,Rut Hilda Florensia Damanik
+1821,Anthony Simanjuntak 
+0112,Widya Anggraeni
+1438,Andya Mangara Simanjuntak
+0579,Darmawati L. Tobing
+2085,Yustinus Rungun Pangloli
+2086,Erlina Prima
+1589,Yesaya Mangentang
+1590,Dupdelstu Wau
+2487,Rivaldo Immanuel
+0839,Tri Hardi Priyanto
+0840,Ratnawati
+1436,L.R.K. Purbaningrum
+2564,Bambang Parikenan
+0707,Mairing M. Pongtuluran
+0706,Dwi Irnawati
+1877,Rachelyna Mairing
+2612,Michael Jose Mairing
+3330,Carolyna Mairing
+0175,Darmini Ida Ardani
+1444,Donny Septian Nyangkal
+1317,Shelly Gresie Ubyaan
+0109,Andreas Sunardi
+0071,Yanti Martini Yonas
+2159,Bow Abiyoso
+2610,Abel Wibisono
+1131,Sarah Yohana Tri W.
+0239,Kristedjo Kurnianto
+0691,Dahlia Eltina Evi Siahaan
+0167,Djaruddin Hasibuan
+0177,Delima Sibarani
+1878,Samuel Hasibuan
+0424,Desima Sibarani
+0215,Tumpal Pandiangan
+0216,Rosmaida Damanik
+1162,Robekka Pandiangan
+1879,Bunga Pandiangan
+3344,Naomi Pandiangan
+0267,Kampiun Siahaan
+0268,Rustiani Siahaan
+1165,Dita Rosenta Siahaan
+2158,Wulan Tantri Diana Silaen
+0294,Normaully Sitompul (istri Al. Pak Timbul Simanulang)
+2312,Youlistiana Esther Manullang
+3076,Desty Cesilia Rientany Simanulang
+0270,Sabarmen Purba
+0271,Heriaty Shintauli Sumbayak
+2488,Rizky Hartawan Natanael Purba
+2874,Rendy Hisar Anggaraya Purba
+0539,Monang Sitorus
+0540,Ida Asmawaty Sirait
+2057,Gressy Romauly Elisabeth S.
+3297,Aldo Pratama
+0104,Samuel Praptoyo
+1572,Lulut Christy Widyarani
+2875,Priaksa Widya Kurnia
+0162,Eri Tri Muntiyatno
+0164,Sri Mulyani Yulianti
+1880,Yonatan Riyaneka Putra
+2611,Jendra Riyan Dwiputra
+0234,Petrus Zacharias
+0235,Ardiani (Ny. Petrus Zacharias)
+1881,Petra Ardi Zacharias
+2613,Wilapto Stefanus Zacharias
+3699,Ardianus Imanuel Zacharias
+1449,Alfrida Pratiwi
+2427,Bunga Rubak
+2428,Hermitamaya
+3358,Williater Nainggolan
+3359,Salomtaria Damanik
+3360,Athesia Naomi N.
+3361,Ramos Benini Nainggolan
+3405,Freddi Hendra Hermanto Pasaribu
+1425,Maria Elysabeth
+0534,Johan M. Simanungkalit
+0535,A. Dahlia Marpaung
+2058,Ezra Febrina Valentine S. 
+2705,Priska Marpaung
+0004,Budi Astuti (istri Alm. Pak Bakara)
+0759,Alberty Elisa Bakara
+3794,Soni Sahat P. Hutahaean
+1564,Vionica Maria M. Manullang
+1144,Novita Anggelya
+1145,Haryanto
+0685,Ong Tjoan Sen
+3160,Devy Monika
+0100,Timotius Sumarto
+0094,Tati Liana
+2062,Yosua Kristianto Natanael
+2254,Elisa Martina Sharen
+2565,Peter Krisdiyanto
+1277,Karisah
+1278,Doni Hendra
+1299,Imanuel Didimus Manulang
+3438,Lynar Marthalyna
+3805,Nurlian Maulina Samosir
+4149,William Faidin Situmorang
+4149,William Faidin Situmorang
+0601,Dermita Silitonga
+3684,Eva Sriyuni Debiana Manullang
+0687,Suyoso
+0033,Lim Ang Sun
+0040,Ny. Un Pin Nio
+0042,Hong Ky 
+0047,Yos Rajimin
+0050,Ny. Suminah Sunaryo
+0116,David Harapan
+0053,Tan Lie Hwa
+0107,Tatang Liharja
+0118,Theng Khi Moy
+0220,Lilih Herawati
+1649,Rudi Hadi Susanto
+1935,Stephanie Andriani
+3561,Benyamin Alexander Siahaan
+3562,Eva Ardyantha Purba
+3595,Sihol Joe Situmorang
+0146,Edo Walman Nyangkal
+0150,Yenny Roosye Bororing
+0315,Hentje Youdi Bororing
+0316,Nova Jeane Bororing
+0318,Jemmy Pongoh
+0430,Ani Deli Kalangi
+0438,Donny Paulus Y. Sampul
+2955,Hendri Rosman Nyangkal
+3427,Budi Manurung
+3428,Togu Riama Hasibuan
+4184,Rizal Fransisco Habeahan
+4185,Evi Yanti Sitorus

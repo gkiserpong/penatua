@@ -1,50 +1,240 @@
-A2013024,Nicholas Richie Liu
-A2013025,Joyceline Louise
-A1998039,Dede Martinus
-A2003017,Else Kristi Oktaviana
-A2003018,Rara Ristiana Marlita
-A2003019,Riri Ristiani Marliaty
-A1999015,Ridwan Refy Alfian Julianto
-A1995008,Mechail Andray Iswanto
-A2002025,Gloria Fourteen Boru Tampubolon
-A2008075,Geovann Wilmar Zosran Tampubolon
-A2010065,Gerin Gavrilla Tampubolon
-A2013033,Gerald Raffael Razabhiel Tampubolon
-A2013034,Samuel Pascal Aprilio
-ALASTUA,
-A2015034,Alvaro Emmanuel Suryadi
-A2006046,Rahel
-A2007079,Dirly
-A2013083,Serafina Renata Josephine Sidabutar
-A2013084,Natasya Victoria Sidabutar
-A2014005,Kezia Patricia Zefanya
-A2014006,Keren Benecia Zefanya
-A2002023,Dhafiyah Utan Thahirah Risdiawan
-A2006047,Dewani Maharani Risdiawan
-A2008028,Brianthian Risdiawan
-A2013053,R. Daniel Delpiero M.
-A2013054,R. Danie Pathresia
-A2014111,Reward Davina Shanaque Manalu
-A2016071,Josia DL Saputra
-A2015051,Giovanni Putra Marfen Wijaya
-A1997005,Ayesha Rima Pratama
-A1997004,Riyan Nanggala Putra
-A2019015,Clara Nathania
-A2015061,Alvaro Gavriel
-A2015057,Ariya Wijaya Suryana
-A2015052,Timotius Andrian Ray
-A2014070,Abraham Suryadinata L
-A2015018,Aleiazar Durtha P. Andhe
-A2015044,Regina Anatashya Purimahua
-A2015045,Renata Alexandra Purimahua
-A2015076,Reinhart Aprillio I. Purimahua
-A2006044,Vanesihah Nathanael Adelia M.
-A2006045,Milannueel Aquilera Maranto
-A2015058,Diana Wulandari
-A2015060,Hana Triyanti
-A2015059,Risyah Aprilianti
-A2015063,Kelvin Setiawan
-A2016062,Dea Ananda
-A2019016,Samuel Gilbert Putra Sulaiman
-A2019018,Zakharia Nobel Muntu
-A2019019,Imanuel Chandra
+0026,Chiancy Triyanie Pa'ath
+0674,Chrissane Trivani Pa'ath
+0185,Lie Lian Eng Lily Ct. Pa'ath
+1148,Susan Tiffany Pa'ath
+1149,Hellen Eliana Pa'ath
+0044,Gaow Asam
+0045,Ho Tan Kih
+0061,Ang Cin Yuh (Tarmidi)
+0186,Anyun (The Nyun Moy)
+0184,Ang Lianih
+3151,Kristin
+0062,Ong Bun Kih (Marjuki)
+0064,Dharma Karo-Karo
+0080,Emasari
+0399,John Satria Sinukaban
+0076,Gaow Cin Nio
+0286,Yohana Lekamtompesy
+0297,Francien De Rosa L.
+0637,Subur Santoso
+0638,Christyanty Mahaevi
+1053,In Moi
+1079,Rok Nio
+1081,The Moi
+1281,Mulyadi Santoso
+1280,Sinwah Andriyani
+1411,Mai Lai
+1413,Lilim Sukardi
+1414,Yanti Hernawati
+1446,Lily
+1447,Yayah (Lie Mei)
+0014,Leniwati
+0120,Iwan Susanto
+0015,Mery Hendriyani
+0624,Yuli Hansen Tampubolon
+0401,Lusiana
+0028,Emong
+0569,Yo Eng Bun
+0132,Liem Koei Nio
+0138,Maryati Cuan Yang
+0168,Usaha Purba
+0219,Yoyati Nuryati
+0036,Lim Eng Nyoh
+0176,Lidia Sumiati
+0066,Tan Su Sen
+0078,Ang Cin Yen
+0573,Sulintra
+0567,Cin Nyoh Lestari
+0570,Sauw Encu 
+0571,Ong Erni
+3159,Sumiyati
+1146,Riani
+1273,Liana (Ho Tjeng Nyoh)
+1274,Lim A Tjong
+1409,Harih
+1410,Daniel Amri
+0077,Meily Herawati 
+1673,Erna Aprilia
+3154,Yo Oceng (Didi)
+3156,Indri Lestari
+1674,Suherman
+2366,Denny Agustinus
+2367,Lita Arista
+0909,Teti Puspa
+0911,Yunita
+2034,Theodora Nia Sari
+1030,Sugiawati Surya (Kekeng)
+1168,Walden Hottua Simanullang
+1473,E Eng (Kie Sin Eng)
+1478,Engnih Yuningsih
+2035,Nana Kartika
+2036,Nini Kartini
+2037,Sekar Indriyani
+2066,Loa Kiok Lie
+1548,A n d i
+3409,Thio Eng Lie
+0365,Tionimar br. Manik
+1046,Yana
+1047,Ninik
+1057,Yeyen
+1275,Oei Tiam Nyoh
+1156,Pitna Gunawan
+0915,Etty
+1472,Hendrik Gunawan
+1190,Ernawati
+1477,Atju
+0938,Bernadus Loa B. (ayah ibu Etty)
+0913,Lily B.
+2494,K a r t a
+1151,Ceceh
+1153,Wiwin Widyawati
+1546,Hetty Sofiaty
+1547,Hilda Wati Wijaya
+0912,How Hong Nie (Oong)
+1554,Meliana
+1575,Edi Alimin
+1576,Sun Nio
+1577,A n i h
+1578,Eng Jin
+1853,Wirya
+1854,Liani Watik
+1856,Cin Lan
+1883,N e l i
+1884,E l i
+1885,Marlina
+1886,Akianto
+3002,Ondo Hotasi Halomoan Sidabutar
+3003,Elizabeth Lan Makahinda
+0914,Yenny (Yeni)
+3038,Sastra Wijaya
+3039,Irene Kumaladewi
+3340,Karen Pascalia
+0024,Lim Wanih
+0206,Andri Triatmoko
+0209,Widi Kristiasih
+0313,Thomas Adibroto
+0207,Edy Triwibowo
+0227,Ronny Dewi N. Siahaan
+0250,Diana Efendi
+0256,Radot Benny Aritonang
+0276,Wawan Risdiawan
+1055,Rika Martina
+0387,Budhi Sulastri
+1029,Kiok Nie (Nini)
+1811,Elis Kristiana
+1937,Uzziah Uzai Johanes H.Sw.
+2962,Pahala Manalu
+2903,Reny Bernadetta
+0006,Mulyadi
+0013,Idjah
+0499,Yuliana
+0675,Elih Junaedi
+0686,Junaedi
+2402,Lukas Apriyadi
+0490,Tan Nyo Lan
+0614,Agustinus
+0676,Ang Enih
+3164,Bowo Valentinus
+3165,Hendi Sutandi
+3158,Thio Sun Can (Cecep)
+0677,Uun Suryana
+1002,David Saputra
+3136,Fenti Febrianti
+1006,Lenawati
+3161,Herman
+0221,Ny. Uminah
+1282,Ecih
+1283,Adjie Mulyadi
+1285,Nana Sukarno
+3135,Yohanes Suncay
+1295,Wawah Kusniawati
+3150,Stevanus
+1296,Agustinus
+1395,Rusiti
+1440,Timotius Ari Kusbiantoro
+1450,Kristian Ari Ruswanto
+1475,Ana
+1476,Dedy
+1480,Tan Kim Nio
+1676,Linah
+3155,Andre 
+1677,Lenci
+1678,Witiong Wahyudi
+1679,Elan
+1705,Wawah
+1706,Philipus Na Tjeng Wie
+1707,Maria Goretti Yani
+2258,Pit Nyoh
+0043,Irwan J. Ringga
+0214,Yeyen Nuryati 
+3152,Rifald Zaktra Ringga
+2597,Buddy Sartana
+2139,Fictres Frieven
+2140,Hariati
+0151,Sin Nio
+0203,Elnih
+0489,Evi Yulianti Sitohang
+0492,Eddi
+0493,Sun Cang
+0494,Gouw Djing Kie
+0495,Nanih
+0496,Nani Nan Nio
+1708,Yusuf
+1709,Titin
+1675,Ferih
+3052,Maiya
+3168,Yahya Supriyan
+2368,Samuel
+2369,Tiara
+2370,Sari Ayu
+2371,Lisa
+2372,Yandi
+3133,Lulu
+2373,Herita
+3138,Sebastianus Nana Suryana
+2398,Yashinta Cicin Finasthi
+3134,Yesika Cicin Finasty
+3141,Albeth Ryanto Suryana
+2890,Mia
+2891,Yeliana
+2892,Sumiyati (Ciuh Hoa Oey)
+2893,Een
+2894,Gunawan S.
+2895,Suilan
+2896,Kintin Kinal
+3139,Nani Winarti
+3249,Imam Suryatno
+3250,Yuli Yana
+3246,Lau Mei
+3275,Andres Agustin
+3276,Devi Leo Nita
+3277,Erni Suyanto
+3278,Ifan Kurniawan
+3279,Ignathia Oktaviani
+3280,Linah
+3281,Linda
+3282,Juni Baktius
+3283,Krisna
+3284,Neneng
+3285,Sepian
+3286,Silvia Debora
+3287,Sun Ing
+3288,Uyeng
+3289,Yohanes Purnama Candra
+3325,Hermanto
+3324,Endam
+3372,Eron Sartana
+3373,Meri Hertriasih
+3326,Nathanael Enggar Waskito Andhe
+3418,Ramon Viverra Purimahua
+3419,Grasita Wati
+0230,Edy Maranto
+0327,Nani Lestari
+3142,Ardiane Rossi Kurniawan Maranto
+0074,Emong
+2033,Edi Yonatan
+0032,Reyen Supriyadi
+0158,Yuliatmi Condrowati
+2776,Andre Bayu Supriadi
+2771,Lidya Greaceta Supriadi
+2481,Boby Rubentus

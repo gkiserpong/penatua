@@ -1,122 +1,320 @@
-A1998001,Clara Tanone
-A1998002,Benjamin Tanone
-A2008016,Agni Pratama Bramantyo
-A2015074,Dejuan Chrisalden Rumekso Marbun
-A2014038,Nicholas Benarchie Rumekso marbun
-A2009066,Ralfabiel Sebastian Rumekso Marbun
-A2008025,Daniel Evan Hermawan
-A2010030,Nicholas Prabaswara Tahapary
-A2006061,Lewi Meyvianus Borosi
-A2004035,Thimotius Simbolon
-A2003023,Timothy Rafael Himawan
-A2005021,Agung Samuel Rachmanto
-A2005022,Doa Junop Kurnia Rachmanto
-A2001053,Felicia Trisnanto
-A2001035,Thelma Irga Santoso
-A2003052,Fenyo Ezra Tania
-A1998005,Sarah Geraldine Sianturi
-A2006067,Arnold Christopher Koroa
-A2006068,Gerald Alexander Koroa
-A2008100,Alejandro Aurel Samgita
-A2009033,Audreyana Daniella Rustriarlan
-A1997012,Chrisvania Handita Nyssa
-A1997013,Deva Hadi
-A1999022,Javier Teguh
-A2006076,Mariel Chrysantha Tampubolon
-A2009040,Reyner Elazaro Tampubolon
-A2004031,Mattew Anthony Tjoa
-A.2006003,Priska Allysia Maharani
-A2010026,Felometha Giku Wibawayanti
-A2012063,Aryasatya Gamaliel Hedraios
-A2006087,Katori Hamdani
-A2006088,Kirei Hamdani
-A2003027,Emmanuel David Lehman
-A2005047,Abel Salvatore Davis
-A2005048,Abigail Thessalonika Davis
-A2014034,Isabelle Arletha Tumbelaka
-A2014035,Kaylee Cathleya Tumbelaka
-A2010071,Velove Gracia Juliana Marto
-A2003020,Erin Natalie
-A2008080,Russell Erickson Sumananda
-A2014047,Monica Angeline Tamala
-A2014093,Javelin Bernadette
-A2014106,Davinci Cornellius Sunarko
-A2014065,Audryna Tasya L
-A2014068,Grecia C.Putri
-A2014114,Denzly Alexander Sosilo
-A2016045,Jason J.
-A2016046,Gabrian G.
-A2016047,Audrey A
-A2017057,Matthew Bertlan Bezaleel Hutapea
-A2017058,Benaiah Togi Enoshta Hutapea
-A2019001,Marvel Cristiano Marpaung
-A2019006,Steve Vallery Ranonto
-A2019007,Marlayne Gabrielle Ranonto
-A2011004,Rafael Putra Samuel
-A2011008,Kinmova Dewi Sembiring Meliala
-A2011009,Selby Farsyos Sembiring Meliala
-A2006040,Clara Zefanya Hutapea
-A2012023,Julio Christian Hutapea
-A2016043,Erianthi Nathania Indrianingtyas
-A2016044,Evanthi Natasha Berlianingtyas
-A2005045,Sintya Emmanuela Marpaung
-A2010052,Sere Nathaniela Marpaung
-A2004018,Mathew Liman
-A2006086,Ellicia Liman
-A2000011,Leony Calista Natasha
-A2003003,Hosana Anselindo Ramapradana
-A2011032,Hosana Juniardy Putra
-A2004060,Hosana Arifio Dito
-A2003069,Serafina Verina suci Narasti
-A2003016,Abayomi Maleakhi Tri
-A2006042,Abimael Manasye Tri
-A2014023,Abilio Misael Tri
-A2006055,Johanes Fiwo Kapoh
-A2006016,Steven Agung C. Kristiyanto
-A2006017,Stella Angelina C. Kristiyanto
-A2002028,Mikha Ananda
-A2005036,Luna Ardhagia Widodo
-A2000010,Jonathan Elsandro Putra
-A2005011,Kezia Robertha Putri Wangka
-A2010021,Alvin Christian Setiawan
-A2014107,Jovanka Anabel Suryo Prabowo
-A2014116,Joshua Alexander Suryo Prabowo
-A2017079,Jolynn Alexandra Suryo Prabowo
-A2017075,Jolynn Eleonora Rustandi
-A2017076,Bianca Chrysilla Rustandi
-A2017054,Clearesta Deven Deonata
-A2017055,Theona Nirwasita Deonata
-A2013002,Andrew E. Brillian Subagyo
-A2007010,Philipus Marouw Noach
-A2001001,Daniel Christian Hartanto
-A2001002,Marcello Jonathan Hartanto
-A2013055,Jason Anfernee Kaloh
-A2013056,Julian Avery Kaloh
-A2014117,Putri Jasmine 
-A2015001,Devina Amelinda Brahmana
-A2009041,Rafael Christiano Burnama
-A2012040,Abigail Jaquina Vashti Burnama
-A2003009,Charis Novisca
-A2003046,Agsel Jessica
-A2011053,Adriel Hotasi EBM Manurung
-A2011054,Ariel Jethro LHP Manurung
-A2011055,Abie Leonardus PE Manurung
-A2011056,Athalia Kostina S. Manurung
-A2016015,Angelito Benaya Endarto
-A2014017,Kinanthi Eucharistia Iana
-A2010035,Cleo Yosepha Azalia
-A2010053,Calvin Yeremia Ananditya Sumbayak
-A2010070,Caton Yonathan Anugerah
-A2012024,Putri Shabrina Wulandari Adinatha
-A2012025,Praditha Virginia Trivia Oktora Adinatha
-A2001016,Cherry Monika Saputra
-A2006039,Diani Priyono
-A2007008,Deswita Hartati Situmorang
-A2008072,Joy Septyana Situmorang 
-A2014021,Joevanca Aurelia Lesmana
-A2016014,Charlene Allysia Lesmana
-A2007029,Brian Satrio Brahmantio
-A2014028,Blessy Cantiqa Quennara Sinaga
-A2013060,Gemilang Janice Kurnia
-A2013061,Gempita Jillva Kurnia
-A2013062,Gemilau Joanne Kurnia
+0437,Haryanus Tanone
+0867,Sugeng Suroso
+0868,Siti Laela
+1251,Maria Bunony
+2674,Rika Anjela Meiliyanti
+3102,Yuki Melinda Febiyanti Hidaka
+1494,Agustinus Suprayogi
+0747,Hendrik Irawan
+0748,Shelly
+3331,Catherine Marcia Irawan
+3710,Nicholas Michael Irawan
+2376,Elmo Asido Sebastian
+2093,Tedjo Rumekso
+2094,Tri Prasetianingrum
+2143,Mega Tantri Arumaningtyas
+2756,Dharu Trihatmojo
+2864,Anggita Wendy Pratiwi
+2598,Suwita Santosa
+2599,Winny Yudiarto
+2901,Gideon Aprilio Putra Santosa
+2902,Arnold Julian Satria
+0698,Widhiarto
+0699,Anik Suranti
+3298,Andhito Dewantoro
+1408,Margaretta Puspita
+0929,Maria Larasati
+2569,Andra Gupta Pratama
+2600,Biaga Surya Karuma Windran
+0775,Wongko Ndaya Borosi
+0776,Linarce Lande
+2456,Norman Walanda Borosi
+2865,Deby Christian Borosi
+3128,Hernando Borosi
+0578,Toety Aritonang
+1530,Togar Simbolon
+1531,Vera Simbolon Sitorus
+3094,Theresa Naomima Simbolon
+1270,Haryono Simon
+1271,Imnawati
+1628,Seriati Farida Sitanggang
+1086,Henny Widyawati
+0800,Agus Santoso
+0782,M. Irene Rosanti Tj.
+1907,Armyn Sulistyo Yuwono
+2144,Albert Prihantoro
+1381,Youke Tani
+1382,Feybe Poluakan
+0407,Ny. Esther Tuminah
+0462,Samudra Sianturi
+2519,Marwondo Hadi Susanto
+1836,Yeanywati Djojosutrisno 
+1396,Agus Supriyanto
+1397,Hendriati
+0858,Paulus Haryanto
+0859,Mariana Gasyirin
+2363,Erniwati
+2124,Ronald Sibuea
+2125,Susi Azelina
+2145,Jerry Willyam Sibuea
+2234,Hansend Pandapotan
+2866,Pieter Dowfije Sibuea
+2867,Maria Carolina Sibuea
+1132,Suryanto
+1133,Lisjeni
+2225,Daniel Ary Samgita
+2226,Heniwaty
+0338,BJ Silooy
+0341,Yuni Silooy
+0343,Jane Veronika Silooy
+0344,Herbert Lukas Silooy
+1567,Edwin Saputra Natasusena
+1921,Yuniarto Rustriarlan
+1922,Hera Permatasari
+3678,Alvin Timoty Rustriarlan
+0697,Hanny Agustine (istri Alm. Bp. Djoenaidi Handojo)
+0564,Terie Teguh
+0565,Lydia Suryadi
+3410,Aldwin Teguh
+1383,Ridwan Hardjowibowo
+1777,Berman Denny Tampubolon
+1778,Yenny Theresia I.S.
+1591,Danyanto Putra
+1512,Lucky Harry Korah
+1513,Henny Wiesje Langi
+0334,Sugiyanto Hardjono
+0337,Sumarwi Mulyani
+0321,Feronika Yupianti
+0923,Felipi Bismayanto
+1065,Methane Amitri Kus Sudiyono.
+1714,Handi Hamdani
+1715,Linawati
+2544,Hans Hamdani
+0931,Savanthie Makagiansar
+0884,Reynold Adolfo A. Lehman
+0885,Sanny Ratna Widjaja
+1213,Yosias Nugroho Wijaya
+2577,Rachel Tunggal
+1596,Denny Adam
+1794,Benjamin Muliawan Jonathan
+2543,Alexander A. Jonathan
+2016,Clara Maria Lola Rantung
+1388,Subiantoro
+1389,Endang Sri Wahyuni
+1390,Yuni Herlany
+1645,Rony Crisdianto
+1646,Rudy Stevianto
+3143,Edward Ray Sebastian
+3144,Cynthia Dewi
+2531,Stacia Andani
+0348,Robert Manusun L. Tobing
+0351,Siti Komariah
+1312,Sara Louisa Uli Tobing
+1655,Ulini Maria Cherry Tobing
+3093,Charles Gustaaf Tumbelaka
+1111,Joce Sumanti
+1112,Victor Fred I. Marto
+1182,Debby Grace Imelda Pangalila
+1266,Erick Sumananda
+1267,Eveline Oroh
+1739,Yudhi Firman
+1741,Philip Josep Leatemia 
+1859,Abetnego Sitepu
+3178,Hasko Tumbur Parulian Hutabarat
+3179,Ruth Indah Sulistyowarni
+2868,Daniel Aditya Hasian Hutabarat
+3230,Alvin Daniel Sunarko
+3231,Desy Harliani
+3244,Wandrey Sosilo
+3245,Widiastuti
+3262,Iskandria Hartono
+3565,Kosasih Winardi
+3596,Ester Heddy Hutapea
+3597,Audhy Tanasal
+3598,Yuliana Sianto
+3675,Neltjie Joan Mariana Hosang
+3809,Robert Utrecht Octovianus Hutapea
+3810,Bulan Silvina Putri Siahaan
+2208,Toha Saut Situmeang
+2209,Lisbeth Ratu Surya Siregar
+4036,Firman Marpaung
+4037,Liny Elisa Yanggah
+4045,Kireina Negolara Dokubani
+4046,Henry Reinold Ranonto
+4047,Birgita Angelina W. Novianty
+1391,Rudolf Gerard Johan Sahanaya
+1392,Triastuti
+2236,Gerard Sahanaya
+1557,Andre Yoses Nugraha
+2578,Heri Samuel
+2579,Reni Kusbandini
+2814,Titiek Muryati Turas
+2815,Ratna Nita Viyanti Turas
+2585,Giana Ninta Sembiring Meliala
+2586,Ahinoam Kersttree Deisi Roeroe
+1020,Tumpal Manumpak Hutapea
+1509,Kartika Tri Hapsari
+3570,Samuel Arifin Darmajanto
+3593,Eri Braliantoro
+3594,Bekti Retnaningrum
+1067,Jessica Andriani
+3268,Darwin Halomoan Siregar
+3269,Sandra Julia Tarore
+1710,Sintong Maruhum Marpaung
+1711,Suharyati
+1304 ,Dyah Ida Harnani
+1467,Martha Elizabeth Napitupulu
+0888,John Natal
+0889,Ani Lebang Saranga
+1831,Sabam Hasurungan Sinaga
+1832,Donda Dameria Simbolon
+0832,Kurnia Kartiningtyas
+1245,Suwarsono
+1246,Maria Anna Lucia A.
+1120,Agus Tri Ismanto
+1923,Krisanti Buana
+1803,Johnny Peterson Halauwet
+1804,Anfebe Kapoh
+2455,Juliana Margaretha Halauwet
+3110,Eugenia Brigita Halauwet
+1806,Ramona Patresia Kapoh
+1807,Rustriana Kapoh
+1808,Santoso
+1747,Jahja Kristijanto
+1748,Julia Indrawati Gozali
+0987,Hanny Jaffray Ante
+0898,Kiki Kurnia Debora
+1147,Parsidik
+2841,Emmanuel Septian Putra Ante
+1617,A.S.P. Kusuma
+1618,Diana Saptari
+0794,Mc Muttaqin Tri Ananda
+0795,Lina Syofnidar
+2717,Rinna Trisna
+1544,S a r i
+0246,Arief Slamet Widodo
+1265,Dany Ekowati
+1469,Edward Hendra Perdana
+1470,Miranda Janiarti
+1018,Priskila Djawa
+1019,Yusmiati N. Wangka
+1434,Trisan Fraido
+1435,Yulianto Wangka
+2059,Silvia Anggreini Mabiang
+0773,Roberto Ipsilanty Wangka
+2492,Irwan Setiawan
+2493,Felicia Sandra Dimalouw
+2213,Djumadi
+3221,Teddy Sebastian Suryo
+3222,Esther Octaviani
+3290,Erica Khristanti
+3607,Herman Wahyu
+3608,Ratri Widiastuti
+3622,Agung Wibowo
+3821,Rustiono Rustandi
+3822,Lina Natanael
+3792,Yonatan Wijayanto
+3793,Studya Pancadewi
+1898,Ignasius Sudjadi
+1842,Martin Luther P. Sihotang
+3411,Ribka Roida Siregar
+2291,Alexander Pangihutan Siagian
+2292,Martha Pasande
+2907,Heri Subagyo
+2908,Wasita Dewi
+3357,Zefanya Chelsea First Subagyo  
+1405,Benyamin Th. Noach
+1406,Rely Aryani H. Loblobly
+3328,Agustine Rarahere Noach
+0950,Hartanto Kurniawan A.S.
+0951,Dyah Christina Utami
+2185,Winner Raya H. Limbong
+2186,Prisceilla Alamanda Henryani Gabrielle Tangkudung
+2116,Marphil C. Hisar Ramoy Tulong
+2117,Farieda Kandowangko
+2118,Dhaniar Agusta Tulong
+2119,Sarah Kartika Tulong
+2542,Abraham Tulong
+2963,Ryan Alfons Kaloh
+2964,Jane Imelda A. Mandagi
+3216,Rewachand (Rudy) Tangkawarow
+3217,Hedrina Rosalin
+3264,Darwin Sembiring Brahmana
+3265,Darmastuti
+3266,Vania Tiffany Brahmana
+3267,Diva Calista Brahmana
+1339,S. Dwianto S. Burnama
+1931,Hilda Mautia
+1338,A. Bayu Adhy Burnama
+1895,Credorius Latumahina
+1896,Margaretha Irene Geraldine Sahusilawane
+1897,Katutcha Doretha Ianalina Latumahina
+1774,Germandy Lionheart Latumahina
+2552,Siti Aryanti
+1269,Sonya Kusnandar
+3317,Rheza Pratama Chandra
+1249,Erwin
+1250,Sri Yuni Marliana
+3296,Agnes Monica
+2647,Dino Manurung
+2648,Inna Perak Laurina br. Silaban
+1620,Eko Agus Prasetyo Endarto
+1724,Arlius Telaumbanua
+1725,Chana
+1726,Yasniriang Juwita Zalukhu
+1727,Idawati Zendrato
+1760,Itok Kristiyanto
+1761,Oktiana Marhendra
+2103,John Pala Onn Situmeang
+2104,Anita Friskila Girsang
+2451,Kristantiyo Hutomo
+2452,Julfrida Yanty br. Sigumonrong
+3000,Kristiana Handayani
+0667,Poltak Sitorus
+0668,Silvia Dwihardini
+1657,Michael Oktaf Yulindo Sitorus
+2040,Dita Monica Sitorus
+2551,Satrio Torus Sakti Sitorus
+1007,Martin Tarigan
+1008,Iriani Malau
+2299,Andi Alexander Tarigan
+2816,Ulina Sania Veronika Tarigan
+2784,Surya Adinatha
+2785,Christine Endang Trismiyati Soebadi
+2759,Patricia Crissan P. Adinatha
+1652,Citra Cahyani Setya
+2172,Rafael Simorangkir
+2173,Ning Asmuah
+3310,Joshua Sampurna S.
+3700,David Julius Anugerah S.
+0124,Tevri Gunsi
+3122,Busur Wisnu Saputra
+1534,Nicolas Albert Pattinasarany
+0108,Amin Mulyono
+0119,Budijanti
+0422,Wilter Peris Situmorang
+0423,Eritoni Tumanggor
+2457,Febrianty Veronika
+3746,Ananda Elisabeth Situmorang
+1464,Sugeng Priyono
+1650,Nur Farida
+3725,Aryani Devi Priyono
+2550,Risel Taneo
+1910,Tawar Situmorang
+1911,Rosma Purnama D. Lumbantobing
+3414,Ferdy L.S. Taulo
+3415,Friska R. Taulo
+3997,Debora Tambunan
+1848,Jonathan Tjiptaleta
+2886,Verawati
+1849,Rosita Ciptaleta
+1671,Mahnessa Matilda Tioma Siregar
+2301,Tamara Elizabeth Rubina Siregar
+2673,Theodore Otsana Baginda Siregar
+1962,R. Prihandono Iman Santoso
+1963,Helen Theresia M. Sinaga
+1964,Ny. Dame Shinta Sidabutar
+2977,Denny Kurnia
+2978,Henny Adi Surya
+4172,Horasman P. Munthe
+4173,Meilyn Casanova br. Sihombing
