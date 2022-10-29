@@ -1,0 +1,128 @@
+[
+{
+    "model": "anggota.wilayah",
+    "pk": 1,
+    "fields": {
+        "nama": "NUSA LOKA"
+    }
+},
+{
+    "model": "anggota.wilayah",
+    "pk": 2,
+    "fields": {
+        "nama": "KENCANA LOKA"
+    }
+},
+{
+    "model": "anggota.wilayah",
+    "pk": 3,
+    "fields": {
+        "nama": "ANGGREK LOKA"
+    }
+},
+{
+    "model": "anggota.wilayah",
+    "pk": 4,
+    "fields": {
+        "nama": "GRIYA LOKA"
+    }
+},
+{
+    "model": "anggota.wilayah",
+    "pk": 5,
+    "fields": {
+        "nama": "ALAM SUTERA"
+    }
+},
+{
+    "model": "anggota.wilayah",
+    "pk": 6,
+    "fields": {
+        "nama": "MELATI MAS"
+    }
+},
+{
+    "model": "anggota.wilayah",
+    "pk": 7,
+    "fields": {
+        "nama": "CAROTA"
+    }
+},
+{
+    "model": "anggota.wilayah",
+    "pk": 8,
+    "fields": {
+        "nama": "CARDOLYNE"
+    }
+},
+{
+    "model": "anggota.wilayah",
+    "pk": 9,
+    "fields": {
+        "nama": "BATAN INDAH"
+    }
+},
+{
+    "model": "anggota.wilayah",
+    "pk": 10,
+    "fields": {
+        "nama": "SUDARITA"
+    }
+},
+{
+    "model": "anggota.wilayah",
+    "pk": 11,
+    "fields": {
+        "nama": "PUSPITEK"
+    }
+},
+{
+    "model": "anggota.wilayah",
+    "pk": 12,
+    "fields": {
+        "nama": "DAGO BUARAN"
+    }
+},
+{
+    "model": "anggota.wilayah",
+    "pk": 13,
+    "fields": {
+        "nama": "PJ CIKOLEANG"
+    }
+},
+{
+    "model": "anggota.wilayah",
+    "pk": 14,
+    "fields": {
+        "nama": "PJ PAGEDANGAN"
+    }
+},
+{
+    "model": "anggota.wilayah",
+    "pk": 15,
+    "fields": {
+        "nama": "FORESTA"
+    }
+},
+{
+    "model": "anggota.wilayah",
+    "pk": 16,
+    "fields": {
+        "nama": "DELATINOS"
+    }
+},
+{
+    "model": "anggota.wilayah",
+    "pk": 17,
+    "fields": {
+        "nama": "GIRI LOKA"
+    }
+},
+{
+    "model": "anggota.wilayah",
+    "pk": 18,
+    "fields": {
+        "nama": "SURADITA"
+    }
+}
+]

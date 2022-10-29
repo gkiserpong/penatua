@@ -1,0 +1,57 @@
+A2016016,Immanuel Darren Widjaya
+A2017081,Damario Haditama
+A2014105,Revania Putri Kinanti Kristi
+A2014079,Gloria Natalia Christanty Nainggolan
+A2006009,Septyan Danu P.
+A2018015,Tyta Nia Anjani
+A2018014,Dita Anjeli
+A2009004,Brigitta Averillia br. Marbun
+A2013016,Eksaudi Putri Siregar
+A2013017,Yehezkiel Parlindungan Siregar
+A2016032,Leonardo Pardede
+A2011060,Ersa Sri Nathalia Perangin-angin
+A2014029,Raissa Lirna Kamaratih br Parangin-angin
+A2014078,Jeremia Naraya Prasetyo
+A2009058,Joyka Angelita E. Laimeheriwa
+A2011072,Josephine Valerie D. Laimeheriwa
+A2013031,Josh Nathanael Laimeheriwa
+A2009057,Graciana Retta Sasando Lusi
+A2014104,Manuela Sasando Lusi
+A2017090,Gian Sasando Lusi
+A2007009,Yosua Vincentius Abdhy
+A2013036,Elfride Evangelia Siburian
+A2003065,Ricardo Nugraha
+A2003066,David
+A2003067,Denny
+A2019030,Dominique Eodia Rapali
+A2015033,Dominique Alnovemri Purba
+A2011073,Marfian Saputro
+A2006064,Kyrenia E br. Simanjuntak
+A2005031,David Otniel Lumban Tobing
+A2013028,Shulamita Zelda Lumban Tobing
+A2007032,Nathania Valmay Radoti br. Hutabarat
+A2007040,Dea Anastasia Hutabarat
+A2016086,Bram Edbert Pangestu Hutabarat
+A2010048,Chaela Ester Anastasia Simbolon
+A2015075,Flora Nathania Maribel Tambunan
+A2011021,Jessica Nurbetti Manullang
+A2015012,Jefry Moranta Manullang
+A2010037,Jesica Lusiana
+A2010038,Andika Marcel
+A2012029,Kay Shaloom br. Sitohang
+A2012030,Key Shaloom br. Sitohang
+A2013076,Anthony Markus Hantoro
+A2011014,Gabriella Kineisha Nandita Burnama
+A2012067,Janoah Theo Franco Burnama
+A2013063,Madeline Julanov Naomi Siregar
+A2013078,Phoebe Marintan Tsania Siregar
+A2018025,Theona Callysta Priscilla Siahaan
+A2018026,Ruth Hanna Michaella Siahaan
+A2018028,Jusuf Yonatan L C Lumban Tobing
+A2019010,Anugrah Kristama
+A2019011,Hot Sintong Pahala Sihombing
+A2019012,Sahat Maruly Tua Sihombing
+A2019013,Poppy Claudya Sihombing
+A2013021,Gabriel Sam Kenward Tumanggor 
+A2015071,Sheena Achiera Tumanggor
+A2020013,Joaqueen Shofia Adela Lumbanraja

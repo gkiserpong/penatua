@@ -1,0 +1,150 @@
+A2002044,Axel Timothy
+A2014001,Michelle Evelyn Napitupulu 
+A2014002,Kimberly Priscilla Napitupulu
+A2003054,Michael Paskah Ricardo Napitupulu
+A2011031,Andreas Jorgan Christian Napitupulu
+A2005028,Alodia Miranda Napitupulu
+A2009024,Felisia Pradipta Parakitri
+A2009025,Abel Dirgayusa
+A2013090,Jonathan Manuel Alessandro Hutapea
+A2010006,Frederick M.A. Siahaan
+A2010022,Angelica Vallerie Imelda br. Siahaan
+A2007001,Leonard Moses Adinegoro
+A2007002,Andrew Suryolaksono
+A2008024,Audrey Sarah Magdalena Bako
+A2002029,Rachel Pricillia Angel
+A2006090,Rafael Christofer Witjaksono
+A2011076,Immanuel Alberto Benedictus Witjaksono
+A2012038,Davine Irene Maela
+A2011065,Martin John Sulaksono Putra
+A2011066,Michael Joe Sulaksono Putra
+A2014014,Cordelia Deborah Margareth Samosir
+A2012043,Michelle Laurentia Widjaja
+A2012061,Louis Matthew Widjaja
+A2011026,Bimo Suryo Valentino
+A2011027,Adinda Putri Aprilia
+A2010074,Nathania Marium Lidia Purba
+A2010075,Agnes Saira Tabita Purba
+A2011041,Ruth Erin Arisma Purba
+A2004023,Kenji Janos Wongsokenongo
+A2007016,Litany Christy Wongsokenongo
+A2007035,Estefine Helena Gang
+A1998018,Frederick Gamaliel
+A2002001,Febrian Nathanael
+A2003048,Farreldi Yehezkiel
+A2000028,Janet Estherina (anak dari alm. Bp. Daniel Setiawan W.)
+A2005003,Jason Emmanuel Widhihandojo (anak dari alm. Bp. Daniel Setiawan W.)
+A2014012,Irene Yoshi Lubis
+A2014031,Juan Sebastian Lubis
+A2008039,Gerald Josh Fernaldy Aritonang
+A2009014,Fayola Greta Aritonang
+A2012044,Ersam Richard Parura
+A2015035,Kevin Matthew Hasibuan
+A2005046,Clarissa Fortuna Paripurna
+A2009015,Abigail Jessalyn Paripurna
+A2009038,Kalina Dominique Pazia Silalahi
+A2010016,Welliam Daniel
+A2010017,Patricia Walanda
+A2010029,Benjamin Toar Sinolungan
+A2007005,Priska Gracesilia Kristiyanto
+A2007006,Relita Rahel Kristiyanto
+A2014010,Samantha Karolina
+A2014011,Jose Tumpal Aquila Pakpahan
+A2010024,Seto Pradipta Adhi Nugroho
+A2013037,Pramudya Naranata Adhi Nugroho
+A2008085,Alfredo Nathaniel B. Djawa
+A2008086,Arnold Benedick B. Djawa
+A2006029,William Asido Hamonangan Situmeang
+A2006030,Gabriela Serenata Maroha br. Situmeang
+A2006066,Osakaris A. Panjaitan
+A2012017,Budi Arie Setiadi
+A2012018,Dian Arie Yuliadi
+A2013020,Noah Arkadewa
+A2004034,Amadeuz Aron Napitupulu
+A2007046,Alexandr William Napitupulu
+A2007057,Johanes Mudeca Ginting
+A2009020,Jilena Karenhapukh Ginting
+A2013006,Robinta Klemen Bangun
+A2016009,Jacinda Gabriella Ginting
+A2008019,Jerremy Arnold Vansamdey
+A2015082,Patrick Kennard Vansamdey
+A2015010,Anne Litania Frank
+A2007063,Natanael Arkana
+A2008070,Mikael Theofilus Hascaryo
+A2014085,Noah Gesang Wicaksono
+A2012052,Christopher Bennett H. Hutagalung
+A2013065,Risvitadira Nathaniel Tehuteru
+A2013066,Risviandito Raphael Tehuteru
+A2009053,Kevin George Rivardo Ngantung
+A2009054,Aprilia Tania Tesalonika Ngantung
+A2010047,Christ Philips Kekung
+A2012021,Christine Dina Kekung
+A2016084,Naomy Queen Kekung
+A2007031,Gabriella Agnesya Eldaanora Sihotang
+A2011046,Graciela Kristi Wijaya
+A2011044,Freja Maleeka Derusti
+A2011045,Darrell Ezekiel Derusti
+A2006060,Bryan Teofanu Kesuma
+A2013042,Angelica Miraquel Gamaliel
+A2013043,Chezqua Viena Gamaliel
+A2015065,Flynn Mathias Gamaliel
+A2013057,Nathanael Julian Sekeon
+A2013058,Daniel Sebastian Sekeon
+A2001036,Henry Hamilton Prasetyo
+A2010057,Keina Kinara Oskandar
+A2007052,Christabel Sabina Warouw
+A2007053,Peter Christian Warouw
+A2013026,Vony Yakoba Sira
+A2014058,Daniel Pardamean Simanjuntak
+A2014059,Annabel Reginia Simanjuntak
+A2014060,Vincent Narosio Simanjuntak
+A2016055,Yolanda Maria P. Sihite
+A2016056,Yohannes Marasi C. Sihite
+A2016085,Yovanka Mikha Natalia Sihite
+A2016090,Ezekiel Archelo Kenzie
+A2016087,Francisco Gabriel Rainhart
+A2017015,Josephine
+A2017016,Fritz Jonathan
+A2019041,Joseph Johan Parulian Matondang
+A2019042,Jordan Winfred Panogari Matondang
+A2019002,Yesaya Ananda Djaya
+A2007018,Amabel Jacinta Bahtera
+A2007019,Amberlyn Jenessa Bahtera
+A201377,Shelomitha Putri Hasian Tampubolon
+A2013101,Kevin Adrian Halim
+A2001057,Carissa Rimma Sitompul
+A2004024,Christopher Reginald Sitompul
+A2011074,Christopher Kevin Bramantyo
+A2016017,Raden Nalendra Putra Cahyadi
+A2015064,Joseph Reinhart Pardede
+A2011036,Ezra Abhinaya Pasaribu
+A2011043,Mikha Darunendra Pasaribu
+A2009049,Natalie Quinta Cahyani
+A2009059,Anindya Raissa Maheswari
+A2011077,Callista Grace Maharani
+A2012058,Jasmine Kevina Putri Halawa
+A2016074,Jaden Christian Putra Halawa
+A2017052,Nandini Anindita Kristi
+A2002032,Malya Anindita Kristi
+A2014036,Angela Adytha Putri
+A2014037,Gabriella Adytha Putri
+A2008105,Cecilia Davina Abigail Napiun
+A2011042,Emmanuel Davin Romeo Napiun
+A2015024,Sammuel Christian Naraya
+A2015025,Felicya Prastika Nathania
+A2015080,Fredrik Wilbert Nathanael L. Tobing
+A2015081,Felicia Winny Augria Tobing
+A2014082,Debian Henola Gultom
+A2017063,Eleana Febe Ulibasa Gultom
+A1999024,Priscilla Aurelia Suryadi
+A2010072,Yehezkiel Vito Adhitio
+A2018009,Jefta Clarence Sinembadan
+A2015031,Josepha Christhea Sinembadan
+A2017019,Bianca Alexandra Nainggolan
+A2012015,Marshya Rumondang M. Mamora
+A2012016,Rachel Michele Rassya M. Mamora
+A2016028,Sophia Putri Abigail L. R. Siahaan
+A2018011,Petra Josias Partogi Siahaan
+A2017006,Amanda Putri Eriandina Satriani
+A2017007,Jolenne Willona Febrinadi Satriani
+A2017078,Maleakhi Axellucio Pasaribu

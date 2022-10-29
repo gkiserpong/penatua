@@ -1,0 +1,73 @@
+A2010002,Gabriella Meliyani Mauleti
+A2011062,Timothy Joshua Sembiring
+A2011063,Naomi Eunike Sembiring
+A2013010,Elvira Sinamo
+A2013011,Sodipta Sinamo
+A2008118,Krista Zefanya Jonas
+A2009030,Pablo Jeremy Hasiholan Pardamean Sirait
+A2009031,Clarissa Ivana Nathania Hotmauli Sirait
+A2013082,Caleb Lemuel Purba
+A2013013,Amadeuz Keizo Bandoro Hadi
+A2013027,Chakavayla Kimillie Femischa Hadi
+A2014030,Lucius Jethro Tjhang
+A2010008,Chelsea Valentine Kaligis
+A2010028,Abigail Joana Kaligis
+A2012004,Timothy Andre Suryapradipta
+A2011075,Pembayun Bre Amaranggana
+A2013047,Christa Tiya Angelica Sitorus
+A2013048,Christy Tiya Angelene Sitorus
+A2013049,Chlara Tiya Triangela Sitorus
+A2012031,Marcello Jonathan Everton Sirait
+A2012036,Nadine Carmellina Minar Sirait
+A2017060,Raline Tiar Hasibuan
+A2017056,Jonathan Mattew Ferdinand
+A2017085,Grizelle Elora Anjali Ubyaan
+A2019039,Darryl Simon Hasiholan Sinaga
+A2019040,Billy Christiano B. Sinaga
+A2019014,Jayden Avery Tupamahu
+A2019028,Jordan Isaac Tupamahu
+A2013029,Raindra Bramajaya
+A2015017,Deandre Bramajaya
+A2018008,Nydia Bramajaya
+A2014064,Clement Nathanael Prawira
+A2013044,Glori Alvina Maria Sabandar
+A2016035,Samuel Teduh Abimanyu
+A2013104,Alicia Kirana Putri Prihantoro
+A2013007,Lukas Leland Ratadhi
+A2014026,Marien Clementine Ratadhi
+A2013091,Timothy Aurelio Mendrofa
+A2016008,Tobias Alexander Mendrofa
+A2014054,Helena Prana Citra
+A2014069,Rafael Cristiano Nathanael Barus
+A2014084,Gabriel Sebastian Valentino Barus
+A2014089,Serafim Louise Setiardi
+A2014062,Amabelle Cheryl
+A2014063,Nathanael Kent P.
+A2014100,Nicholas Adrian Pudiantoro
+A2015036,Clement Kaniel Hallatu
+A2015037,Jesca Eoudia Hallatu
+A2016034,Timothy Harlan Yuwono
+A2016023,Bhisma Adiyasa
+A2016052,Trevor Joshua M. Meranga
+A2016053,Davis Pearce S. Meranga
+A2016054,Evelyn J. Natalie Meranga
+A2016077,Renzo Adriel Hutasoit
+A2017008,Thesalonika Putri Utomo
+A2017009,Jason Ariel Kusuma Utomo
+A2015015,Devan Adrian Hernando
+A2015068,Davina Florien Hernando
+A2016088,Raphael Benedict Jonathan Pasaribu
+A2020016,Chloe Graciella Hatalaibessy
+A2007066,Javier Justin Tambunan
+A2007083,Jankulovski Danzel Tambunan
+A2016024,Christian Raja Pangihutan Rajagukguk
+A2016025,Yosepha Maria Seraphina Rajagukguk
+A2016026,Tiurmaida Michelle Andrea Rajagukguk
+A2016063,Fideline A. Zefanya
+A2016064,Justin Simanjuntak
+A2016065,Jason Simanjuntak
+A2017001,Alexandra Niccole Usmany
+A2017004,Theresa Bianca Swasono
+A2017005,Anastasia Amanda Swasono
+A2018028,Andrew Nathanael Johan
+A2018037,Rachel Theresia Johan

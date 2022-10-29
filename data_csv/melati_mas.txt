@@ -1,0 +1,122 @@
+A1998001,Clara Tanone
+A1998002,Benjamin Tanone
+A2008016,Agni Pratama Bramantyo
+A2015074,Dejuan Chrisalden Rumekso Marbun
+A2014038,Nicholas Benarchie Rumekso marbun
+A2009066,Ralfabiel Sebastian Rumekso Marbun
+A2008025,Daniel Evan Hermawan
+A2010030,Nicholas Prabaswara Tahapary
+A2006061,Lewi Meyvianus Borosi
+A2004035,Thimotius Simbolon
+A2003023,Timothy Rafael Himawan
+A2005021,Agung Samuel Rachmanto
+A2005022,Doa Junop Kurnia Rachmanto
+A2001053,Felicia Trisnanto
+A2001035,Thelma Irga Santoso
+A2003052,Fenyo Ezra Tania
+A1998005,Sarah Geraldine Sianturi
+A2006067,Arnold Christopher Koroa
+A2006068,Gerald Alexander Koroa
+A2008100,Alejandro Aurel Samgita
+A2009033,Audreyana Daniella Rustriarlan
+A1997012,Chrisvania Handita Nyssa
+A1997013,Deva Hadi
+A1999022,Javier Teguh
+A2006076,Mariel Chrysantha Tampubolon
+A2009040,Reyner Elazaro Tampubolon
+A2004031,Mattew Anthony Tjoa
+A.2006003,Priska Allysia Maharani
+A2010026,Felometha Giku Wibawayanti
+A2012063,Aryasatya Gamaliel Hedraios
+A2006087,Katori Hamdani
+A2006088,Kirei Hamdani
+A2003027,Emmanuel David Lehman
+A2005047,Abel Salvatore Davis
+A2005048,Abigail Thessalonika Davis
+A2014034,Isabelle Arletha Tumbelaka
+A2014035,Kaylee Cathleya Tumbelaka
+A2010071,Velove Gracia Juliana Marto
+A2003020,Erin Natalie
+A2008080,Russell Erickson Sumananda
+A2014047,Monica Angeline Tamala
+A2014093,Javelin Bernadette
+A2014106,Davinci Cornellius Sunarko
+A2014065,Audryna Tasya L
+A2014068,Grecia C.Putri
+A2014114,Denzly Alexander Sosilo
+A2016045,Jason J.
+A2016046,Gabrian G.
+A2016047,Audrey A
+A2017057,Matthew Bertlan Bezaleel Hutapea
+A2017058,Benaiah Togi Enoshta Hutapea
+A2019001,Marvel Cristiano Marpaung
+A2019006,Steve Vallery Ranonto
+A2019007,Marlayne Gabrielle Ranonto
+A2011004,Rafael Putra Samuel
+A2011008,Kinmova Dewi Sembiring Meliala
+A2011009,Selby Farsyos Sembiring Meliala
+A2006040,Clara Zefanya Hutapea
+A2012023,Julio Christian Hutapea
+A2016043,Erianthi Nathania Indrianingtyas
+A2016044,Evanthi Natasha Berlianingtyas
+A2005045,Sintya Emmanuela Marpaung
+A2010052,Sere Nathaniela Marpaung
+A2004018,Mathew Liman
+A2006086,Ellicia Liman
+A2000011,Leony Calista Natasha
+A2003003,Hosana Anselindo Ramapradana
+A2011032,Hosana Juniardy Putra
+A2004060,Hosana Arifio Dito
+A2003069,Serafina Verina suci Narasti
+A2003016,Abayomi Maleakhi Tri
+A2006042,Abimael Manasye Tri
+A2014023,Abilio Misael Tri
+A2006055,Johanes Fiwo Kapoh
+A2006016,Steven Agung C. Kristiyanto
+A2006017,Stella Angelina C. Kristiyanto
+A2002028,Mikha Ananda
+A2005036,Luna Ardhagia Widodo
+A2000010,Jonathan Elsandro Putra
+A2005011,Kezia Robertha Putri Wangka
+A2010021,Alvin Christian Setiawan
+A2014107,Jovanka Anabel Suryo Prabowo
+A2014116,Joshua Alexander Suryo Prabowo
+A2017079,Jolynn Alexandra Suryo Prabowo
+A2017075,Jolynn Eleonora Rustandi
+A2017076,Bianca Chrysilla Rustandi
+A2017054,Clearesta Deven Deonata
+A2017055,Theona Nirwasita Deonata
+A2013002,Andrew E. Brillian Subagyo
+A2007010,Philipus Marouw Noach
+A2001001,Daniel Christian Hartanto
+A2001002,Marcello Jonathan Hartanto
+A2013055,Jason Anfernee Kaloh
+A2013056,Julian Avery Kaloh
+A2014117,Putri Jasmine 
+A2015001,Devina Amelinda Brahmana
+A2009041,Rafael Christiano Burnama
+A2012040,Abigail Jaquina Vashti Burnama
+A2003009,Charis Novisca
+A2003046,Agsel Jessica
+A2011053,Adriel Hotasi EBM Manurung
+A2011054,Ariel Jethro LHP Manurung
+A2011055,Abie Leonardus PE Manurung
+A2011056,Athalia Kostina S. Manurung
+A2016015,Angelito Benaya Endarto
+A2014017,Kinanthi Eucharistia Iana
+A2010035,Cleo Yosepha Azalia
+A2010053,Calvin Yeremia Ananditya Sumbayak
+A2010070,Caton Yonathan Anugerah
+A2012024,Putri Shabrina Wulandari Adinatha
+A2012025,Praditha Virginia Trivia Oktora Adinatha
+A2001016,Cherry Monika Saputra
+A2006039,Diani Priyono
+A2007008,Deswita Hartati Situmorang
+A2008072,Joy Septyana Situmorang 
+A2014021,Joevanca Aurelia Lesmana
+A2016014,Charlene Allysia Lesmana
+A2007029,Brian Satrio Brahmantio
+A2014028,Blessy Cantiqa Quennara Sinaga
+A2013060,Gemilang Janice Kurnia
+A2013061,Gempita Jillva Kurnia
+A2013062,Gemilau Joanne Kurnia

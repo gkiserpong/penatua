@@ -1,0 +1,8 @@
+#!/bin/bash
+
+
+for i in `ls -1 data_csv/*`
+do
+	echo ${i}
+	python manage.py importcsv ${i}
+done

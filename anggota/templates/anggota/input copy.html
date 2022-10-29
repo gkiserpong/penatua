@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <!-- Compiled and minified JavaScript -->
+    <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>-->
+
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+    <script>
+    $( function() {
+        $( "#pengusul_nama" ).autocomplete({
+            // source: availableTags
+            source: "{% url 'get-anggota' %}"
+        });
+        $( "#penatua_1" ).autocomplete({
+            source: "{% url 'get-anggota' %}"
+        });
+        $( "#penatua_2" ).autocomplete({
+            source: "{% url 'get-anggota' %}"
+        });
+        $( "#penatua_3" ).autocomplete({
+            source: "{% url 'get-anggota' %}"
+        });
+        $( "#penatua_4" ).autocomplete({
+            source: "{% url 'get-anggota' %}"
+        });
+        $( "#penatua_5" ).autocomplete({
+            source: "{% url 'get-anggota' %}"
+        });
+        $.ajax('{% url 'get-wilayah' %}',
+        {
+            success: function(data, status, jqXHR) {
+                // console.log(data);
+                $.each(data, function(i, item) {
+                    console.log(item.id);
+                    $('.form-select').append($('<option>', {
+                        value: item.id,
+                        text: item.nama
+
+                    }));                    
+                });
+            }
+        });
+    });
+
+function validateName(nama) {
+
+}
+
+function isEmail(email) {
+  var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+  return regex.test(email);
+}
+
+function validateEmail() {
+    let email_val = $('#pengusul_email').val();
+    if (! isEmail(email_val)) {
+        alert('Mohon alamat email yang benar');
+        $('#pengusul_email').focus();
+    }
+    else 
+    {
+
+    $.ajax('{% url 'get-pengusul' %}?term=' + email_val, 
+    {
+        success: function(data, status, jqXHR) {
+            $('#data_detail').innerHTML = data;
+            if ('pengusul_nama' in data) {
+                $('#section_detail_usulan').css('visibility', 'visible')
+                $('#pengusul_email').val(data['pengusul_email'])
+                $('#pengusul_nama').val(data['pengusul_nama'])
+                $('#pengusul_mobile').val(data['pengusul_mobile'])
+                $('#penatua_1').val(data['penatua_1'])
+                $('#penatua_1_wilayah').val(data['penatua_1_wilayah'])
+                $('#penatua_1_alasan').val(data['penatua_1_alasan'])
+                $('#penatua_2').val(data['penatua_2'])
+                $('#penatua_2_wilayah').val(data['penatua_2_wilayah'])
+                $('#penatua_2_alasan').val(data['penatua_2_alasan'])
+                $('#penatua_3').val(data['penatua_3'])
+                $('#penatua_3_wilayah').val(data['penatua_3_wilayah'])
+                $('#penatua_3_alasan').val(data['penatua_3_alasan'])
+                $('#penatua_4').val(data['penatua_4'])
+                $('#penatua_4_wilayah').val(data['penatua_4_wilayah'])
+                $('#penatua_4_alasan').val(data['penatua_4_alasan'])
+                $('#penatua_5').val(data['penatua_5'])
+                $('#penatua_5_wilayah').val(data['penatua_5_wilayah'])
+                $('#penatua_5_alasan').val(data['penatua_5_alasan'])
+                
+            } else {
+                $('#section_detail_usulan').css('visibility', 'visible')
+            }
+            console.log(data);
+        }
+    });
+    }
+}
+    </script>  
+</head>
+<body style="background-color: grey;">
+
+<div class="container">
+    <div class="card mb-5 mt-5">
+        <div class="card-body">
+            <h1 class="card-title">Form usulan balon pnt GKIS 2023-26</h1>
+            <p class="card-subtitle">
+                Formulir Usulan Bakal Calon Penatua GKI Serpong 2023-2026 (Orang yang dapat diusulkan dan pengusul adalah anggota di Jemaat GKI Serpong). 
+            </p>
+            <p class="card-subtitle">
+                Anda dapat mengusulkan satu (1) sampai lima (5) bakal calon dalam formulir ini. Bila Anda ingin mengusulkan lebih dari 5, mohon mengisi kembali dengan formulir yang baru.    
+            </p>
+            <br />
+            <p class="card-subtitle">
+                <span class="text-danger">* Required</span>
+            </p>
+        </div>
+    </div>
+<!-- Form Start -->
+<form action="{% url 'submit-usulan' %}" method="POST">
+    {% csrf_token %}
+    <div class="card mb-3 mt-5">
+        <div class="card-body">
+            <label for="pengusul_email" class="form-label">Email Jemaat Pengusul</label>
+            <div class="input-group mb-3">
+                <span class="input-group-text text-danger" id="email_span">*</span>
+                <input id="pengusul_email" name="pengusul_email" class="form-control" type="email" onblur="{validateEmail();}" required="true">
+            </div>
+
+            <label for="pengusul_nama" class="form-label">Nama Anggota Jemaat Pengusul</label>
+            <div class="input-group mb-3">
+                <span class="input-group-text text-danger" id="email_span">*</span>
+                <input id="pengusul_nama" name="pengusul_nama" class="form-control" type="text" class="form-control autocomplete-content" required="true">
+            </div>
+    
+            <label for="pengusul_mobile" class="form-label">Nomer HP Jemaat Pengusul</label>
+            <div class="input-group mb3">
+                <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                <input id="pengusul_mobile" name="pengusul_mobile" type="number" class="form-control">
+            </div>
+        </div>
+    </div>
+
+
+    <div id="section_detail_usulan" style="visibility: visible;">
+        <div class="card mb-3">
+            <div class="card-body">
+                <label for="penatua_1" class="form-label">Nama Lengkap Calon Penatua 1 Yang Diusulkan</label>
+                <div class="input-group mb-3">
+                    <span class="input-group-text text-danger" id="email_span">*</span>
+                    <input id="penatua_1" name="penatua_1" type="text" class="form-control autocomplete-content" required="true">
+                </div>
+
+                <label for="penatua_1_wilayah" class="form-label">Wilayah Calon Penatua 1</label>
+                <div class="input-group mb-3">
+                    <span class="input-group-text text-danger" id="email_span">*</span>
+                    <!--<input id="penatua_1_wilayah" type="text" class="form-control" required="true">-->
+                    <select id="penatua_1_wilayah" name="penatua_1_wilayah" class="form-select" aria-label="Default select example">
+                        <option value="0">-----</option>
+                      </select>
+                </div>
+
+                <label for="penatua_1_alasan" class="form-label">Pelayanan di GKI Serpong ( Komisi / Kepanitiaan / Wilayah ) dan Alasan Diusulkan Calon Penatua 1</label>
+                <div class="input-group mb-3">
+                    <span class="input-group-text text-danger" id="email_span">*</span>
+                    <textarea id="penatua_1_alasan" name="penatua_1_alasan" type="text" class="form-control" required="true"></textarea>
+                </div>
+            </div>
+        </div>
+        
+        <div class="card mb-3">
+            <div class="card-body">
+                <label for="penatua_2" class="form-label">Nama Lengkap Calon Penatua 2 Yang Diusulkan</label>
+                <div class="input-group mb-3">
+                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                    <input id="penatua_2" name="penatua_2" type="text" class="form-control autocomplete-content">
+                </div>
+
+                <label for="penatua_2_wilayah" class="form-label">Wilayah Calon Penatua 2</label>
+                <div class="input-group mb-3">
+                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                    <!--<input id="penatua_2_wilayah" type="text" class="form-control">-->
+                    <select id="penatua_2_wilayah" name="penatua_2_wilayah" class="form-select" aria-label="Default select example">
+                        <option value="0">-----</option>
+                    </select>
+                </div>
+
+                <label for="penatua_2_alasan" class="form-label">Pelayanan di GKI Serpong ( Komisi / Kepanitiaan / Wilayah ) dan Alasan Diusulkan Calon Penatua 2</label>
+                <div class="input-group mb-3">
+                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                    <textarea id="penatua_2_alasan" name="penatua_2_alasan" type="text" class="form-control"></textarea>
+                </div>
+            </div>
+        </div>
+
+        <div class="card mb-3">
+            <div class="card-body">
+                <label for="penatua_3" class="form-label">Nama Lengkap Calon Penatua 3 Yang Diusulkan</label>
+                <div class="input-group mb-3">
+                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                    <input id="penatua_3" name="penatua_3" type="text" class="form-control autocomplete-content">
+                </div>
+
+                <label for="penatua_3_wilayah" class="form-label">Wilayah Calon Penatua 3</label>
+                <div class="input-group mb-3">
+                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                    <!--<input id="penatua_3_wilayah" type="text" class="form-control">-->
+                    <select id="penatua_3_wilayah" name="penatua_3_wilayah" class="form-select" aria-label="Default select example">
+                        <option value="0">-----</option>
+                    </select>
+                </div>
+
+                <label for="penatua_3_alasan" class="form-label">Pelayanan di GKI Serpong ( Komisi / Kepanitiaan / Wilayah ) dan Alasan Diusulkan Calon Penatua 3</label>
+                <div class="input-group mb-3">
+                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                    <textarea id="penatua_3_alasan" name="penatua_3_alasan" type="text" class="form-control"></textarea>
+                </div>
+            </div>
+        </div>
+
+        <div class="card mb-3">
+            <div class="card-body">
+                <label for="penatua_4" class="form-label">Nama Lengkap Calon Penatua 4 Yang Diusulkan</label>
+                <div class="input-group mb-3">
+                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                    <input id="penatua_4" name="penatua_4"type="text" class="form-control autocomplete-content">
+                </div>
+
+                <label for="penatua_4_wilayah" class="form-label">Wilayah Calon Penatua 4</label>
+                <div class="input-group mb-3">
+                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                    <!--<input id="penatua_4_wilayah" type="text" class="form-control">-->
+                    <select id="penatua_4_wilayah" name="penatua_4_wilayah" class="form-select" aria-label="Default select example">
+                        <option value="0">-----</option>
+                    </select>
+                </div>
+
+                <label for="penatua_4_alasan" class="form-label">Pelayanan di GKI Serpong ( Komisi / Kepanitiaan / Wilayah ) dan Alasan Diusulkan Calon Penatua 4</label>
+                <div class="input-group mb-3">
+                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                    <textarea id="penatua_4_alasan" name="penatua_4_alasan" type="text" class="form-control"></textarea>
+                </div>
+            </div>
+        </div>
+
+        <div class="card mb-3">
+            <div class="card-body">
+                <label for="penatua_5" class="form-label">Nama Lengkap Calon Penatua 5 Yang Diusulkan</label>
+                <div class="input-group mb-3">
+                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                    <input id="penatua_5" name="penatua_5" type="text" class="form-control autocomplete-content">
+                </div>
+
+                <label for="penatua_5_wilayah" class="form-label">Wilayah Calon Penatua 5</label>
+                <div class="input-group mb-3">
+                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                    <!--<input id="penatua_5_wilayah" type="text" class="form-control">-->
+                    <select id="penatua_5_wilayah" name="penatua_5_wilayah" class="form-select" aria-label="Default select example">
+                        <option value="0">-----</option>
+                    </select>
+                </div>
+
+                <label for="penatua_5_alasan" class="form-label">Pelayanan di GKI Serpong ( Komisi / Kepanitiaan / Wilayah ) dan Alasan Diusulkan Calon Penatua 5</label>
+                <div class="input-group mb-3">
+                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                    <textarea id="penatua_5_alasan" name="penatua_5_alasan" type="text" class="form-control"></textarea>
+                </div>
+            </div>
+        </div>
+        
+        <div class="card mb-3">
+            <div class="card-body">
+                <div class="form-check">
+                    <input type="checkbox" class="form-check-input" id="konfirmasi" nama="konfirmasi">
+                    <label class="form-check-label" for="exampleCheck1">Dengan ini saya menyatakan bahwa benar, saya adalah Anggota Jemaat GKI Serpong; dan saya yang mengisi formulir ini tidak mengatasnamakan orang lain.</label>
+                </div>
+            </div>
+        </div>
+    
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+</div>
+
+</body>
+</html>
