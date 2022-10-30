@@ -99,61 +99,40 @@ def get_pengusul(request):
 
             # Penatua 1
             place_json['penatua_1'] = construct_name(pengusul.penatua_1)
-            '''
-            if pengusul.penatua_wilayah_1:
-                place_json['penatua_1_wilayah'] = pengusul.penatua_wilayah_1.pk
-            else:
-                place_json['penatua_1_wilayah'] = 0
-            '''
             place_json['penatua_1_alasan'] = pengusul.penatua_alasan_1
+            place_json['penatua_1_mobile'] = pengusul.penatua_mobile_1
+
             # Penatua 2
             if pengusul.penatua_2:
                 place_json['penatua_2'] = construct_name(pengusul.penatua_2)
             else:
                 place_json['penatua_2'] = None
-            '''
-            if pengusul.penatua_wilayah_2:
-                place_json['penatua_2_wilayah'] = pengusul.penatua_wilayah_2.pk
-            else:
-                place_json['penatua_2_wilayah'] = 0
-            '''
             place_json['penatua_2_alasan'] = pengusul.penatua_alasan_2
+            place_json['penatua_2_mobile'] = pengusul.penatua_mobile_2
 
+            # Penatua 3
             if pengusul.penatua_3:
                 place_json['penatua_3'] = construct_name(pengusul.penatua_3)
             else:
                 place_json['penatua_3'] = None
-            '''
-            if pengusul.penatua_wilayah_2:
-                place_json['penatua_3_wilayah'] = pengusul.penatua_wilayah_3.pk
-            else:
-                place_json['penatua_3_wilayah'] = 0
-            '''
             place_json['penatua_3_alasan'] = pengusul.penatua_alasan_3
+            place_json['penatua_3_mobile'] = pengusul.penatua_mobile_3
 
+            # Penatua 4
             if pengusul.penatua_4:
                 place_json['penatua_4'] = construct_name(pengusul.penatua_4)
             else:
                 place_json['penatua_4'] = None
-            '''
-            if pengusul.penatua_wilayah_4:
-                place_json['penatua_4_wilayah'] = pengusul.penatua_wilayah_4.pk
-            else:
-                place_json['penatua_4_wilayah'] = 0
-            '''
             place_json['penatua_4_alasan'] = pengusul.penatua_alasan_4
+            place_json['penatua_4_mobile'] = pengusul.penatua_mobile_4
 
+            # Penatua 5
             if pengusul.penatua_5:
                 place_json['penatua_5'] = construct_name(pengusul.penatua_5)
             else:
                 place_json['penatua_5'] = None
-            '''
-            if pengusul.penatua_wilayah_5:
-                place_json['penatua_5_wilayah'] = pengusul.penatua_wilayah_5.pk
-            else:
-                place_json['penatua_5_wilayah'] = 0
-            '''
             place_json['penatua_5_alasan'] = pengusul.penatua_alasan_5
+            place_json['penatua_5_mobile'] = pengusul.penatua_mobile_5
 
         else:
             place_json = {}
@@ -186,6 +165,7 @@ def submit_usulan(request):
             pengusul_penatua_1 = Anggota.objects.get(nia=nia)
             pengusul.penatua_1 = pengusul_penatua_1
         pengusul.penatua_alasan_1 = data['penatua_1_alasan']
+        pengusul.penatua_mobile_1 = data['penatua_1_mobile']
 
         # Penatua 2
         nia = get_nia(data['penatua_2'])
@@ -195,6 +175,7 @@ def submit_usulan(request):
         else:
             pengusul.penatua_2 = None
         pengusul.penatua_alasan_2 = data['penatua_2_alasan']
+        pengusul.penatua_mobile_2 = data['penatua_2_mobile']
 
         # Penatua 3
         nia = get_nia(data['penatua_3'])
@@ -204,6 +185,7 @@ def submit_usulan(request):
         else:
             pengusul.penatua_3 = None
         pengusul.penatua_alasan_3 = data['penatua_3_alasan']
+        pengusul.penatua_mobile_3 = data['penatua_3_mobile']
 
         # Penatua 4
         nia = get_nia(data['penatua_4'])
@@ -213,6 +195,7 @@ def submit_usulan(request):
         else:
             pengusul.penatua_4 = None
         pengusul.penatua_alasan_4 = data['penatua_4_alasan']
+        pengusul.penatua_mobile_4 = data['penatua_4_mobile']
 
         # Penatua 5
         nia = get_nia(data['penatua_5'])
@@ -222,6 +205,7 @@ def submit_usulan(request):
         else:
             pengusul.penatua_5 = None
         pengusul.penatua_alasan_5 = data['penatua_5_alasan']
+        pengusul.penatua_mobile_5 = data['penatua_5_mobile']
 
         # Konfirmasi CheckBox
         pengusul.konfirmasi = True

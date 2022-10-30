@@ -13,6 +13,9 @@ class PengusulAdmin(admin.ModelAdmin):
 class WilayahAdmin(admin.ModelAdmin):
     list_display = ['id', 'nama']
 
+admin.site.site_header = 'Admin Pencalonan Penatua'
+admin.site.site_title =  'Pencalonan Penatua GKI Serpong'
+admin.site.index_title =  'Pencalonan Penatua GKI Serpong'
 
 admin.site.register(Anggota, AnggotaAdmin)
 admin.site.register(Pengusul, PengusulAdmin)

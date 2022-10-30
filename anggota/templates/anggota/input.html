@@ -113,11 +113,46 @@
             validateEmail($(this));
         });
 
+        $("#pengusul_mobile").blur(function() {
+            validateMobile($(this));
+        });
+        $("#penatua_1_mobile").blur(function() {
+            validateMobile($(this));
+        });
+        $("#penatua_2_mobile").blur(function() {
+            validateMobile($(this));
+        });
+        $("#penatua_3_mobile").blur(function() {
+            validateMobile($(this));
+        });
+        $("#penatua_4_mobile").blur(function() {
+            validateMobile($(this));
+        });
+        $("#penatua_5_mobile").blur(function() {
+            validateMobile($(this));
+        });
+
+
+
     });
 
 function isEmail(email) {
   var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
   return regex.test(email);
+}
+
+function isMobile(mobile) {
+  var regex = /^(\+62|62|0)8[1-9][0-9]{6,9}$/;
+  return regex.test(mobile);
+}
+
+function validateMobile(elem) {
+    if (! isMobile(elem.val())) {
+        alert('Mohon memasukkan Nomer HP yang benar');
+        elem.val('');
+        elem.focus();
+    }
+
 }
 
 function validateEmail(elem) {
@@ -139,21 +174,26 @@ function validateEmail(elem) {
                 $('#pengusul_email').val(data['pengusul_email'])
                 $('#pengusul_nama').val(data['pengusul_nama'])
                 $('#pengusul_mobile').val(data['pengusul_mobile'])
+
                 $('#penatua_1').val(data['penatua_1'])
-                //$('#penatua_1_wilayah').val(data['penatua_1_wilayah'])
                 $('#penatua_1_alasan').val(data['penatua_1_alasan'])
+                $('#penatua_1_mobile').val(data['penatua_1_mobile'])
+
                 $('#penatua_2').val(data['penatua_2'])
-                //$('#penatua_2_wilayah').val(data['penatua_2_wilayah'])
                 $('#penatua_2_alasan').val(data['penatua_2_alasan'])
+                $('#penatua_2_mobile').val(data['penatua_2_mobile'])
+
                 $('#penatua_3').val(data['penatua_3'])
-                //$('#penatua_3_wilayah').val(data['penatua_3_wilayah'])
                 $('#penatua_3_alasan').val(data['penatua_3_alasan'])
+                $('#penatua_3_mobile').val(data['penatua_3_mobile'])
+
                 $('#penatua_4').val(data['penatua_4'])
-                //$('#penatua_4_wilayah').val(data['penatua_4_wilayah'])
                 $('#penatua_4_alasan').val(data['penatua_4_alasan'])
+                $('#penatua_4_mobile').val(data['penatua_4_mobile'])
+
                 $('#penatua_5').val(data['penatua_5'])
-                //$('#penatua_5_wilayah').val(data['penatua_5_wilayah'])
                 $('#penatua_5_alasan').val(data['penatua_5_alasan'])
+                $('#penatua_5_mobile').val(data['penatua_5_mobile'])
                 
             }
         }
@@ -183,6 +223,9 @@ function validateEmail(elem) {
             <p class="card-subtitle">
                 <span class="text-danger">* Harus diisi</span>
             </p>
+            <p class="card-subtitle">
+                <span class="text-success">_ Boleh tidak diisi</span>
+            </p>
         </div>
     </div>
 <!-- Form Start -->
@@ -193,9 +236,6 @@ function validateEmail(elem) {
             <label for="pengusul_email" class="form-label">Email Jemaat Pengusul</label>
             <div class="input-group mb-3">
                 <span class="input-group-text text-danger" id="email_span">*</span>
-                <!--
-                <input id="pengusul_email" name="pengusul_email" class="form-control" type="email" onblur="{validateEmail();}" required="true">
-                -->
                 <input id="pengusul_email" name="pengusul_email" class="form-control" type="email" required="true">
             </div>
 
@@ -210,7 +250,7 @@ function validateEmail(elem) {
     
             <label for="pengusul_mobile" class="form-label">Nomer HP Jemaat Pengusul</label>
             <div class="input-group mb3">
-                <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                <span class="input-group-text text-success" id="pengusul_mobile_span">_</span>
                 <input id="pengusul_mobile" name="pengusul_mobile" type="text" class="form-control">
             </div>
         </div>
@@ -225,19 +265,17 @@ function validateEmail(elem) {
                     <span class="input-group-text text-danger" id="email_span">*</span>
                     <input id="penatua_1" name="penatua_1" type="text" class="form-control autocomplete-content" required="true">
                 </div>
-                <!--
-                <label for="penatua_1_wilayah" class="form-label">Wilayah Calon Penatua 1</label>
-                <div class="input-group mb-3">
-                    <span class="input-group-text text-danger" id="email_span">*</span>
-                    <select id="penatua_1_wilayah" name="penatua_1_wilayah" class="form-select" aria-label="Default select example">
-                        <option value="0">-----</option>
-                      </select>
-                </div>
-                -->
+
                 <label for="penatua_1_alasan" class="form-label">Pelayanan di GKI Serpong ( Komisi / Kepanitiaan / Wilayah ) dan Alasan Diusulkan Calon Penatua 1</label>
                 <div class="input-group mb-3">
                     <span class="input-group-text text-danger" id="email_span">*</span>
                     <textarea id="penatua_1_alasan" name="penatua_1_alasan" type="text" class="form-control" required="true"></textarea>
+                </div>
+                
+                <label for="penatua_1_mobile" class="form-label">Nomer HP Calon Penatua 1</label>
+                <div class="input-group mb3">
+                    <span class="input-group-text text-success" id="pengusul_mobile_span">_</span>
+                    <input id="penatua_1_mobile" name="penatua_1_mobile" type="text" class="form-control">
                 </div>
             </div>
         </div>
@@ -246,24 +284,20 @@ function validateEmail(elem) {
             <div class="card-body">
                 <label for="penatua_2" class="form-label">Nama Lengkap Calon Penatua 2 Yang Diusulkan</label>
                 <div class="input-group mb-3">
-                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                    <span class="input-group-text text-success" id="pengusul_mobile_span">_</span>
                     <input id="penatua_2" name="penatua_2" type="text" class="form-control autocomplete-content">
                 </div>
 
-                <!--
-
-                <label for="penatua_2_wilayah" class="form-label">Wilayah Calon Penatua 2</label>
-                <div class="input-group mb-3">
-                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
-                    <select id="penatua_2_wilayah" name="penatua_2_wilayah" class="form-select" aria-label="Default select example">
-                        <option value="0">-----</option>
-                    </select>
-                </div>
-                -->
                 <label for="penatua_2_alasan" class="form-label">Pelayanan di GKI Serpong ( Komisi / Kepanitiaan / Wilayah ) dan Alasan Diusulkan Calon Penatua 2</label>
                 <div class="input-group mb-3">
-                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                    <span class="input-group-text text-success" id="pengusul_mobile_span">_</span>
                     <textarea id="penatua_2_alasan" name="penatua_2_alasan" type="text" class="form-control"></textarea>
+                </div>
+
+                <label for="penatua_2_mobile" class="form-label">Nomer HP Calon Penatua 2</label>
+                <div class="input-group mb3">
+                    <span class="input-group-text text-success" id="pengusul_mobile_span">_</span>
+                    <input id="penatua_2_mobile" name="penatua_2_mobile" type="text" class="form-control">
                 </div>
             </div>
         </div>
@@ -272,22 +306,20 @@ function validateEmail(elem) {
             <div class="card-body">
                 <label for="penatua_3" class="form-label">Nama Lengkap Calon Penatua 3 Yang Diusulkan</label>
                 <div class="input-group mb-3">
-                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                    <span class="input-group-text text-success" id="pengusul_mobile_span">_</span>
                     <input id="penatua_3" name="penatua_3" type="text" class="form-control autocomplete-content">
                 </div>
-                <!--
-                <label for="penatua_3_wilayah" class="form-label">Wilayah Calon Penatua 3</label>
-                <div class="input-group mb-3">
-                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
-                    <select id="penatua_3_wilayah" name="penatua_3_wilayah" class="form-select" aria-label="Default select example">
-                        <option value="0">-----</option>
-                    </select>
-                </div>
-                -->
+
                 <label for="penatua_3_alasan" class="form-label">Pelayanan di GKI Serpong ( Komisi / Kepanitiaan / Wilayah ) dan Alasan Diusulkan Calon Penatua 3</label>
                 <div class="input-group mb-3">
-                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                    <span class="input-group-text text-success" id="pengusul_mobile_span">_</span>
                     <textarea id="penatua_3_alasan" name="penatua_3_alasan" type="text" class="form-control"></textarea>
+                </div>
+
+                <label for="penatua_3_mobile" class="form-label">Nomer HP Calon Penatua 3</label>
+                <div class="input-group mb3">
+                    <span class="input-group-text text-success" id="pengusul_mobile_span">_</span>
+                    <input id="penatua_3_mobile" name="penatua_3_mobile" type="text" class="form-control">
                 </div>
             </div>
         </div>
@@ -296,22 +328,20 @@ function validateEmail(elem) {
             <div class="card-body">
                 <label for="penatua_4" class="form-label">Nama Lengkap Calon Penatua 4 Yang Diusulkan</label>
                 <div class="input-group mb-3">
-                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                    <span class="input-group-text text-success" id="pengusul_mobile_span">_</span>
                     <input id="penatua_4" name="penatua_4"type="text" class="form-control autocomplete-content">
                 </div>
-                <!--
-                <label for="penatua_4_wilayah" class="form-label">Wilayah Calon Penatua 4</label>
-                <div class="input-group mb-3">
-                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
-                    <select id="penatua_4_wilayah" name="penatua_4_wilayah" class="form-select" aria-label="Default select example">
-                        <option value="0">-----</option>
-                    </select>
-                </div>
-                -->
+
                 <label for="penatua_4_alasan" class="form-label">Pelayanan di GKI Serpong ( Komisi / Kepanitiaan / Wilayah ) dan Alasan Diusulkan Calon Penatua 4</label>
                 <div class="input-group mb-3">
-                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                    <span class="input-group-text text-success" id="pengusul_mobile_span">_</span>
                     <textarea id="penatua_4_alasan" name="penatua_4_alasan" type="text" class="form-control"></textarea>
+                </div>
+
+                <label for="penatua_4_mobile" class="form-label">Nomer HP Calon Penatua 4</label>
+                <div class="input-group mb3">
+                    <span class="input-group-text text-success" id="pengusul_mobile_span">_</span>
+                    <input id="penatua_4_mobile" name="penatua_4_mobile" type="text" class="form-control">
                 </div>
             </div>
         </div>
@@ -320,22 +350,20 @@ function validateEmail(elem) {
             <div class="card-body">
                 <label for="penatua_5" class="form-label">Nama Lengkap Calon Penatua 5 Yang Diusulkan</label>
                 <div class="input-group mb-3">
-                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                    <span class="input-group-text text-success" id="pengusul_mobile_span">_</span>
                     <input id="penatua_5" name="penatua_5" type="text" class="form-control autocomplete-content">
                 </div>
-                <!--
-                <label for="penatua_5_wilayah" class="form-label">Wilayah Calon Penatua 5</label>
-                <div class="input-group mb-3">
-                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
-                    <select id="penatua_5_wilayah" name="penatua_5_wilayah" class="form-select" aria-label="Default select example">
-                        <option value="0">-----</option>
-                    </select>
-                </div>
-                -->
+
                 <label for="penatua_5_alasan" class="form-label">Pelayanan di GKI Serpong ( Komisi / Kepanitiaan / Wilayah ) dan Alasan Diusulkan Calon Penatua 5</label>
                 <div class="input-group mb-3">
-                    <span class="input-group-text" id="pengusul_mobile_span">_</span>
+                    <span class="input-group-text text-success" id="pengusul_mobile_span">_</span>
                     <textarea id="penatua_5_alasan" name="penatua_5_alasan" type="text" class="form-control"></textarea>
+                </div>
+
+                <label for="penatua_5_mobile" class="form-label">Nomer HP Calon Penatua 5</label>
+                <div class="input-group mb3">
+                    <span class="input-group-text text-success" id="pengusul_mobile_span">_</span>
+                    <input id="penatua_5_mobile" name="penatua_5_mobile" type="text" class="form-control">
                 </div>
             </div>
         </div>
