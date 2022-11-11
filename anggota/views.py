@@ -37,6 +37,7 @@ def get_wilayah(request):
 
     data = json.dumps(result)
     #print(data)
+
     mimetype = "application/json"
     return HttpResponse(data, mimetype)
 
@@ -58,6 +59,7 @@ def get_anggota_detail(request):
             #place_json['wilayah'] = anggota.wilayah.pk
 
         data = json.dumps(place_json)
+
     mimetype = "application/json"
     return HttpResponse(data, mimetype)
 
@@ -72,6 +74,7 @@ def get_anggota(request):
             place_json = construct_name(angg)
             results.append(place_json)
         data = json.dumps(results)
+
     mimetype = "application/json"
     return HttpResponse(data, mimetype)
 
@@ -160,6 +163,7 @@ def submit_usulan(request):
                 anggota = Anggota.objects.get(nia=nia)
                 pengusul.anggota = anggota
 
+        # Penatua 1
         nia = get_nia(data['penatua_1'])
         if nia:
             pengusul_penatua_1 = Anggota.objects.get(nia=nia)
