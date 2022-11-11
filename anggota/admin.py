@@ -1,5 +1,6 @@
 from django.contrib import admin
 from .models import Anggota, Pengusul, Wilayah
+from import_export.admin import ExportActionMixin
 
 
 class AnggotaAdmin(admin.ModelAdmin):
@@ -7,7 +8,7 @@ class AnggotaAdmin(admin.ModelAdmin):
     search_fields = ['nama']
 
 
-class PengusulAdmin(admin.ModelAdmin):
+class PengusulAdmin(ExportActionMixin, admin.ModelAdmin):
     list_display = ['anggota', 'email', 'mobile', 
                     'penatua_1', 'penatua_alasan_1','penatua_mobile_1',
                     'penatua_2', 'penatua_alasan_2','penatua_mobile_2',
