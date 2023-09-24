@@ -137,5 +137,4 @@ GitHub.sublime-settings
 .history
 
 # Data
-data_csv/
-data_import/
+data_csv/*
