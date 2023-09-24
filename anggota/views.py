@@ -81,7 +81,8 @@ def get_anggota(request):
 
 def input_view(request):
     #
-    return render(request, template_name='anggota/close.html')
+    #return render(request, template_name='anggota/close.html')
+    return render(request, template_name='anggota/input.html')
 
 
 def get_pengusul(request):
